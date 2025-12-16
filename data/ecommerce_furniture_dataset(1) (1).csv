@@ -1,0 +1,1001 @@
+Product_ID,Category,Material,Brand,Rating,Original_Price,Discount_%,Final_Price,Tag
+FUR1000,Desk,Wood,HomeStyle,3.9,39164,5,37205.8,New Arrival
+FUR1001,Bed,Wood,HomeStyle,3.8,44051,29,31276.21,Best Seller
+FUR1002,Wardrobe,Wood,HomeStyle,3.2,15318,6,14398.92,New Arrival
+FUR1003,Desk,Fabric,UrbanLiving,3.9,19200,34,12672.0,Budget Friendly
+FUR1004,Sofa,Leather,ComfortLine,3.4,2082,7,1936.26,Best Seller
+FUR1005,Dining Set,Fabric,FurniCraft,3.4,3920,25,2940.0,Premium
+FUR1006,Wardrobe,Leather,LuxWood,3.2,42585,29,30235.35,Popular
+FUR1007,Wardrobe,Fabric,FurniCraft,3.7,13683,24,10399.08,New Arrival
+FUR1008,Desk,Fabric,FurniCraft,4.5,13336,26,9868.64,Premium
+FUR1009,Table,Plastic,ComfortLine,3.6,17596,25,13197.0,Budget Friendly
+FUR1010,Sofa,Fabric,ComfortLine,3.6,4093,37,2578.59,Popular
+FUR1011,Desk,Metal,ComfortLine,4.3,14905,19,12073.05,Premium
+FUR1012,Sofa,Plastic,HomeStyle,3.4,26351,19,21344.31,Popular
+FUR1013,Sofa,Fabric,UrbanLiving,4.8,32981,29,23416.51,New Arrival
+FUR1014,Dining Set,Wood,HomeStyle,4.0,10367,25,7775.25,Budget Friendly
+FUR1015,Wardrobe,Metal,UrbanLiving,3.9,7285,28,5245.2,Popular
+FUR1016,Bed,Metal,UrbanLiving,4.1,45664,9,41554.24,Premium
+FUR1017,Dining Set,Metal,FurniCraft,3.3,39705,10,35734.5,New Arrival
+FUR1018,Dining Set,Plastic,FurniCraft,4.2,18753,27,13689.69,New Arrival
+FUR1019,Sofa,Fabric,UrbanLiving,3.7,20485,8,18846.2,Premium
+FUR1020,Shelf,Fabric,UrbanLiving,4.8,14977,31,10334.13,Premium
+FUR1021,Wardrobe,Wood,HomeStyle,3.3,21874,22,17061.72,Popular
+FUR1022,Table,Wood,HomeStyle,4.0,9674,25,7255.5,Best Seller
+FUR1023,Dining Set,Metal,FurniCraft,4.2,31038,32,21105.84,New Arrival
+FUR1024,Bed,Wood,ComfortLine,3.1,31315,39,19102.15,Popular
+FUR1025,Shelf,Plastic,UrbanLiving,3.7,5676,26,4200.24,Premium
+FUR1026,Shelf,Fabric,HomeStyle,4.5,4426,27,3230.98,Popular
+FUR1027,Table,Metal,FurniCraft,4.6,26473,7,24619.89,Premium
+FUR1028,Dining Set,Wood,HomeStyle,3.6,4962,14,4267.32,Budget Friendly
+FUR1029,Bed,Plastic,UrbanLiving,4.6,31943,29,22679.53,Premium
+FUR1030,Wardrobe,Plastic,UrbanLiving,4.9,2859,12,2515.92,Premium
+FUR1031,Chair,Wood,LuxWood,4.7,46816,15,39793.6,Premium
+FUR1032,Bed,Fabric,ComfortLine,3.2,6138,9,5585.58,Best Seller
+FUR1033,Table,Wood,LuxWood,4.5,37192,33,24918.64,Premium
+FUR1034,Shelf,Metal,FurniCraft,3.6,27640,9,25152.4,New Arrival
+FUR1035,Wardrobe,Wood,HomeStyle,5.0,12409,13,10795.83,New Arrival
+FUR1036,Bed,Plastic,FurniCraft,4.0,6017,6,5655.98,Popular
+FUR1037,Chair,Wood,UrbanLiving,3.2,12451,5,11828.45,Best Seller
+FUR1038,Chair,Fabric,LuxWood,4.5,30327,34,20015.82,Popular
+FUR1039,Sofa,Leather,LuxWood,3.6,12278,15,10436.3,New Arrival
+FUR1040,Sofa,Wood,LuxWood,5.0,26944,32,18321.92,New Arrival
+FUR1041,Desk,Fabric,FurniCraft,5.0,45764,16,38441.76,Budget Friendly
+FUR1042,Table,Fabric,UrbanLiving,4.3,3134,30,2193.8,Premium
+FUR1043,Dining Set,Plastic,HomeStyle,3.3,32131,17,26668.73,New Arrival
+FUR1044,Bed,Fabric,HomeStyle,4.4,39887,12,35100.56,Popular
+FUR1045,Bed,Fabric,FurniCraft,3.2,40462,32,27514.16,Popular
+FUR1046,Dining Set,Fabric,LuxWood,3.1,24520,34,16183.2,Premium
+FUR1047,Desk,Fabric,ComfortLine,4.6,23869,13,20766.03,Premium
+FUR1048,Shelf,Metal,FurniCraft,3.4,38932,35,25305.8,Budget Friendly
+FUR1049,Shelf,Metal,FurniCraft,3.8,7039,25,5279.25,Best Seller
+FUR1050,Desk,Plastic,UrbanLiving,4.9,23281,38,14434.22,Popular
+FUR1051,Shelf,Wood,HomeStyle,3.7,49399,35,32109.35,Premium
+FUR1052,Sofa,Fabric,FurniCraft,3.6,12442,29,8833.82,Popular
+FUR1053,Bed,Wood,FurniCraft,4.8,10252,16,8611.68,Premium
+FUR1054,Desk,Wood,LuxWood,3.2,29586,5,28106.7,New Arrival
+FUR1055,Bed,Plastic,LuxWood,4.5,19568,26,14480.32,Popular
+FUR1056,Dining Set,Fabric,ComfortLine,5.0,22810,5,21669.5,New Arrival
+FUR1057,Chair,Fabric,UrbanLiving,4.8,3551,5,3373.45,Popular
+FUR1058,Sofa,Leather,ComfortLine,4.3,14625,25,10968.75,Best Seller
+FUR1059,Wardrobe,Wood,LuxWood,3.6,36397,19,29481.57,Budget Friendly
+FUR1060,Sofa,Wood,HomeStyle,3.5,28249,21,22316.71,New Arrival
+FUR1061,Desk,Metal,LuxWood,4.6,3361,26,2487.14,Premium
+FUR1062,Wardrobe,Leather,UrbanLiving,4.8,28149,39,17170.89,Best Seller
+FUR1063,Chair,Metal,LuxWood,4.1,6370,20,5096.0,Popular
+FUR1064,Desk,Metal,UrbanLiving,3.5,7283,12,6409.04,New Arrival
+FUR1065,Table,Metal,UrbanLiving,3.2,9610,21,7591.9,Popular
+FUR1066,Bed,Plastic,UrbanLiving,3.2,45326,21,35807.54,Popular
+FUR1067,Chair,Plastic,UrbanLiving,4.4,16924,30,11846.8,Popular
+FUR1068,Bed,Metal,UrbanLiving,3.8,49607,17,41173.81,Budget Friendly
+FUR1069,Shelf,Leather,HomeStyle,4.8,46717,21,36906.43,Budget Friendly
+FUR1070,Table,Wood,ComfortLine,4.5,12626,21,9974.54,Premium
+FUR1071,Table,Leather,FurniCraft,3.4,36761,18,30144.02,New Arrival
+FUR1072,Chair,Fabric,ComfortLine,4.2,2869,10,2582.1,Best Seller
+FUR1073,Table,Plastic,UrbanLiving,3.9,33552,39,20466.72,Best Seller
+FUR1074,Wardrobe,Wood,HomeStyle,4.2,3014,18,2471.48,Best Seller
+FUR1075,Table,Wood,LuxWood,4.5,12103,12,10650.64,Popular
+FUR1076,Bed,Fabric,HomeStyle,4.6,18986,19,15378.66,Budget Friendly
+FUR1077,Bed,Fabric,UrbanLiving,4.7,46781,31,32278.89,New Arrival
+FUR1078,Desk,Metal,HomeStyle,3.5,32471,17,26950.93,Popular
+FUR1079,Bed,Plastic,HomeStyle,3.1,35458,35,23047.7,Budget Friendly
+FUR1080,Desk,Plastic,UrbanLiving,4.5,27069,39,16512.09,Budget Friendly
+FUR1081,Bed,Leather,HomeStyle,3.2,18873,10,16985.7,New Arrival
+FUR1082,Wardrobe,Metal,FurniCraft,3.6,25248,9,22975.68,New Arrival
+FUR1083,Dining Set,Metal,FurniCraft,3.0,25624,26,18961.76,New Arrival
+FUR1084,Desk,Metal,HomeStyle,4.4,45516,27,33226.68,Popular
+FUR1085,Sofa,Metal,LuxWood,3.3,31061,29,22053.31,Premium
+FUR1086,Shelf,Plastic,UrbanLiving,4.3,26170,38,16225.4,New Arrival
+FUR1087,Chair,Plastic,FurniCraft,5.0,10024,30,7016.8,Premium
+FUR1088,Bed,Metal,LuxWood,3.1,18678,9,16996.98,Popular
+FUR1089,Table,Leather,HomeStyle,3.2,40256,30,28179.2,Premium
+FUR1090,Dining Set,Wood,LuxWood,3.7,22411,24,17032.36,Best Seller
+FUR1091,Bed,Wood,ComfortLine,4.7,45803,10,41222.7,Premium
+FUR1092,Table,Leather,FurniCraft,3.4,21296,10,19166.4,New Arrival
+FUR1093,Shelf,Metal,HomeStyle,3.7,28293,22,22068.54,Popular
+FUR1094,Shelf,Plastic,UrbanLiving,3.1,29172,8,26838.24,New Arrival
+FUR1095,Shelf,Wood,HomeStyle,4.5,23128,21,18271.12,Best Seller
+FUR1096,Table,Fabric,UrbanLiving,3.8,20257,18,16610.74,New Arrival
+FUR1097,Bed,Fabric,HomeStyle,4.5,14855,18,12181.1,New Arrival
+FUR1098,Shelf,Leather,LuxWood,4.8,21642,17,17962.86,New Arrival
+FUR1099,Wardrobe,Metal,LuxWood,3.5,37585,11,33450.65,Budget Friendly
+FUR1100,Desk,Wood,LuxWood,4.6,22025,19,17840.25,Best Seller
+FUR1101,Table,Metal,ComfortLine,3.1,6458,23,4972.66,New Arrival
+FUR1102,Table,Wood,UrbanLiving,4.8,7307,39,4457.27,New Arrival
+FUR1103,Bed,Leather,LuxWood,4.3,43701,21,34523.79,New Arrival
+FUR1104,Table,Leather,ComfortLine,4.7,20425,39,12459.25,Popular
+FUR1105,Table,Fabric,UrbanLiving,3.0,45427,23,34978.79,Budget Friendly
+FUR1106,Shelf,Metal,HomeStyle,3.3,30273,24,23007.48,Popular
+FUR1107,Bed,Fabric,ComfortLine,3.8,40506,39,24708.66,Budget Friendly
+FUR1108,Shelf,Metal,FurniCraft,3.8,7668,36,4907.52,New Arrival
+FUR1109,Desk,Fabric,ComfortLine,3.5,27934,28,20112.48,Best Seller
+FUR1110,Dining Set,Plastic,ComfortLine,3.8,49195,21,38864.05,Premium
+FUR1111,Desk,Plastic,UrbanLiving,3.3,9697,11,8630.33,Premium
+FUR1112,Dining Set,Plastic,HomeStyle,3.8,26417,5,25096.15,New Arrival
+FUR1113,Shelf,Plastic,FurniCraft,4.6,18446,39,11252.06,Popular
+FUR1114,Desk,Wood,LuxWood,4.0,42597,36,27262.08,Best Seller
+FUR1115,Bed,Plastic,LuxWood,3.0,12751,17,10583.33,Budget Friendly
+FUR1116,Chair,Leather,ComfortLine,3.8,48218,10,43396.2,New Arrival
+FUR1117,Shelf,Leather,UrbanLiving,3.1,9352,18,7668.64,Best Seller
+FUR1118,Dining Set,Wood,UrbanLiving,4.9,15516,19,12567.96,Best Seller
+FUR1119,Wardrobe,Plastic,LuxWood,3.3,25299,8,23275.08,Budget Friendly
+FUR1120,Dining Set,Plastic,FurniCraft,4.4,33957,20,27165.6,Best Seller
+FUR1121,Wardrobe,Plastic,HomeStyle,4.9,30927,32,21030.36,Popular
+FUR1122,Table,Fabric,FurniCraft,4.7,43094,20,34475.2,Popular
+FUR1123,Desk,Metal,HomeStyle,4.4,38412,8,35339.04,Popular
+FUR1124,Wardrobe,Fabric,LuxWood,4.7,31493,30,22045.1,Best Seller
+FUR1125,Dining Set,Metal,HomeStyle,5.0,28711,32,19523.48,Popular
+FUR1126,Table,Plastic,UrbanLiving,4.2,10003,36,6401.92,Budget Friendly
+FUR1127,Chair,Plastic,ComfortLine,4.1,33707,6,31684.58,Best Seller
+FUR1128,Bed,Fabric,ComfortLine,4.3,5278,35,3430.7,Premium
+FUR1129,Bed,Fabric,LuxWood,4.1,9296,7,8645.28,Best Seller
+FUR1130,Bed,Metal,UrbanLiving,4.3,27398,12,24110.24,Budget Friendly
+FUR1131,Wardrobe,Leather,FurniCraft,3.9,37842,28,27246.24,Premium
+FUR1132,Chair,Metal,UrbanLiving,3.4,15261,19,12361.41,Best Seller
+FUR1133,Wardrobe,Fabric,ComfortLine,3.2,13173,35,8562.45,Popular
+FUR1134,Desk,Fabric,ComfortLine,3.1,32449,13,28230.63,New Arrival
+FUR1135,Wardrobe,Wood,UrbanLiving,3.5,43080,6,40495.2,New Arrival
+FUR1136,Chair,Fabric,UrbanLiving,3.1,3637,12,3200.56,Popular
+FUR1137,Chair,Wood,ComfortLine,4.1,33781,11,30065.09,New Arrival
+FUR1138,Desk,Leather,FurniCraft,3.6,15652,20,12521.6,New Arrival
+FUR1139,Chair,Metal,LuxWood,4.6,7103,39,4332.83,Popular
+FUR1140,Dining Set,Metal,LuxWood,3.1,27500,34,18150.0,Popular
+FUR1141,Chair,Wood,UrbanLiving,3.5,36800,14,31648.0,Best Seller
+FUR1142,Bed,Metal,LuxWood,4.5,37529,22,29272.62,Best Seller
+FUR1143,Dining Set,Fabric,ComfortLine,4.2,49963,9,45466.33,Popular
+FUR1144,Dining Set,Plastic,ComfortLine,3.1,20452,33,13702.84,Budget Friendly
+FUR1145,Desk,Wood,UrbanLiving,4.8,33174,38,20567.88,New Arrival
+FUR1146,Sofa,Metal,UrbanLiving,4.8,37436,27,27328.28,Best Seller
+FUR1147,Sofa,Wood,UrbanLiving,3.7,49406,9,44959.46,New Arrival
+FUR1148,Chair,Wood,FurniCraft,3.7,17954,34,11849.64,Premium
+FUR1149,Dining Set,Plastic,LuxWood,5.0,19186,10,17267.4,Popular
+FUR1150,Sofa,Fabric,UrbanLiving,4.3,14356,8,13207.52,Budget Friendly
+FUR1151,Sofa,Wood,HomeStyle,4.1,34963,33,23425.21,Premium
+FUR1152,Chair,Metal,HomeStyle,4.7,4187,27,3056.51,Premium
+FUR1153,Sofa,Leather,ComfortLine,3.6,13707,10,12336.3,Premium
+FUR1154,Wardrobe,Wood,LuxWood,3.9,37098,36,23742.72,Popular
+FUR1155,Table,Wood,UrbanLiving,3.5,28935,22,22569.3,Best Seller
+FUR1156,Desk,Plastic,HomeStyle,4.6,23225,19,18812.25,Popular
+FUR1157,Table,Fabric,LuxWood,4.1,5606,36,3587.84,Best Seller
+FUR1158,Chair,Leather,ComfortLine,4.3,34828,13,30300.36,Premium
+FUR1159,Bed,Metal,FurniCraft,3.5,28489,14,24500.54,Premium
+FUR1160,Desk,Leather,LuxWood,3.4,16387,24,12454.12,Budget Friendly
+FUR1161,Chair,Metal,LuxWood,4.0,5927,10,5334.3,Best Seller
+FUR1162,Dining Set,Fabric,FurniCraft,4.5,8296,7,7715.28,Premium
+FUR1163,Bed,Metal,LuxWood,4.1,32444,15,27577.4,New Arrival
+FUR1164,Table,Plastic,ComfortLine,3.1,48390,21,38228.1,Budget Friendly
+FUR1165,Chair,Plastic,ComfortLine,4.7,48893,36,31291.52,Popular
+FUR1166,Dining Set,Plastic,FurniCraft,3.1,4591,8,4223.72,Budget Friendly
+FUR1167,Desk,Plastic,UrbanLiving,4.9,46895,8,43143.4,New Arrival
+FUR1168,Desk,Leather,HomeStyle,3.1,28147,21,22236.13,Best Seller
+FUR1169,Shelf,Fabric,UrbanLiving,4.4,40889,23,31484.53,Popular
+FUR1170,Dining Set,Metal,LuxWood,3.2,3200,9,2912.0,Popular
+FUR1171,Wardrobe,Metal,HomeStyle,4.8,17721,36,11341.44,Best Seller
+FUR1172,Sofa,Plastic,FurniCraft,3.9,21238,26,15716.12,Budget Friendly
+FUR1173,Bed,Plastic,FurniCraft,3.3,13087,10,11778.3,Premium
+FUR1174,Dining Set,Wood,HomeStyle,3.7,32816,39,20017.76,Budget Friendly
+FUR1175,Shelf,Fabric,ComfortLine,3.3,25408,26,18801.92,New Arrival
+FUR1176,Sofa,Leather,HomeStyle,3.3,41740,5,39653.0,Premium
+FUR1177,Sofa,Metal,LuxWood,4.9,2136,24,1623.36,Budget Friendly
+FUR1178,Chair,Wood,ComfortLine,3.9,19413,26,14365.62,Best Seller
+FUR1179,Sofa,Wood,FurniCraft,4.6,20978,15,17831.3,New Arrival
+FUR1180,Wardrobe,Metal,HomeStyle,4.3,2661,17,2208.63,New Arrival
+FUR1181,Desk,Leather,UrbanLiving,4.4,37240,7,34633.2,New Arrival
+FUR1182,Shelf,Wood,UrbanLiving,3.3,29253,13,25450.11,Premium
+FUR1183,Sofa,Wood,LuxWood,3.5,28884,16,24262.56,Popular
+FUR1184,Chair,Fabric,UrbanLiving,4.6,34854,27,25443.42,Premium
+FUR1185,Wardrobe,Leather,HomeStyle,4.9,12704,18,10417.28,Budget Friendly
+FUR1186,Table,Wood,HomeStyle,3.5,40987,37,25821.81,Popular
+FUR1187,Desk,Leather,UrbanLiving,3.5,26527,22,20691.06,Budget Friendly
+FUR1188,Desk,Metal,HomeStyle,3.9,18322,13,15940.14,Popular
+FUR1189,Shelf,Plastic,LuxWood,5.0,49517,27,36147.41,Premium
+FUR1190,Desk,Wood,ComfortLine,3.5,8968,14,7712.48,New Arrival
+FUR1191,Sofa,Fabric,LuxWood,3.8,29518,23,22728.86,Best Seller
+FUR1192,Chair,Metal,LuxWood,4.8,48364,9,44011.24,New Arrival
+FUR1193,Desk,Leather,HomeStyle,3.0,29886,27,21816.78,Premium
+FUR1194,Desk,Metal,ComfortLine,3.1,3700,34,2442.0,Popular
+FUR1195,Table,Wood,HomeStyle,4.2,30246,29,21474.66,New Arrival
+FUR1196,Table,Leather,FurniCraft,4.8,37468,32,25478.24,Premium
+FUR1197,Bed,Plastic,HomeStyle,3.5,25199,38,15623.38,Budget Friendly
+FUR1198,Wardrobe,Metal,HomeStyle,3.9,46589,29,33078.19,Best Seller
+FUR1199,Sofa,Wood,HomeStyle,3.9,34115,14,29338.9,New Arrival
+FUR1200,Desk,Fabric,ComfortLine,3.9,7520,18,6166.4,Popular
+FUR1201,Dining Set,Leather,HomeStyle,4.2,46278,34,30543.48,Budget Friendly
+FUR1202,Desk,Metal,ComfortLine,3.9,38455,29,27303.05,Premium
+FUR1203,Chair,Metal,UrbanLiving,3.9,22929,18,18801.78,Best Seller
+FUR1204,Bed,Plastic,FurniCraft,3.9,43605,39,26599.05,Popular
+FUR1205,Wardrobe,Plastic,ComfortLine,4.2,16955,38,10512.1,Premium
+FUR1206,Dining Set,Fabric,UrbanLiving,4.1,46049,14,39602.14,Premium
+FUR1207,Bed,Fabric,ComfortLine,4.7,15917,39,9709.37,New Arrival
+FUR1208,Shelf,Wood,ComfortLine,3.1,6757,15,5743.45,New Arrival
+FUR1209,Wardrobe,Wood,FurniCraft,4.7,15045,15,12788.25,Popular
+FUR1210,Desk,Fabric,LuxWood,4.7,43680,25,32760.0,Premium
+FUR1211,Desk,Fabric,LuxWood,3.6,6733,25,5049.75,New Arrival
+FUR1212,Wardrobe,Leather,ComfortLine,3.9,32954,26,24385.96,Best Seller
+FUR1213,Desk,Plastic,HomeStyle,3.9,33135,11,29490.15,Best Seller
+FUR1214,Sofa,Wood,UrbanLiving,3.4,9081,21,7173.99,Premium
+FUR1215,Wardrobe,Plastic,HomeStyle,3.8,43458,6,40850.52,New Arrival
+FUR1216,Bed,Plastic,HomeStyle,3.1,25501,16,21420.84,Popular
+FUR1217,Wardrobe,Fabric,ComfortLine,3.6,23113,22,18028.14,Popular
+FUR1218,Dining Set,Leather,ComfortLine,4.6,36441,15,30974.85,Popular
+FUR1219,Desk,Metal,ComfortLine,3.6,49086,20,39268.8,Best Seller
+FUR1220,Sofa,Leather,ComfortLine,4.6,26690,22,20818.2,New Arrival
+FUR1221,Sofa,Leather,LuxWood,4.1,45939,39,28022.79,New Arrival
+FUR1222,Shelf,Plastic,ComfortLine,4.8,31345,30,21941.5,Best Seller
+FUR1223,Bed,Leather,LuxWood,4.1,48313,20,38650.4,Popular
+FUR1224,Table,Wood,LuxWood,3.1,46571,10,41913.9,Popular
+FUR1225,Table,Plastic,ComfortLine,4.4,28829,16,24216.36,Premium
+FUR1226,Wardrobe,Wood,FurniCraft,3.1,37062,17,30761.46,Budget Friendly
+FUR1227,Shelf,Metal,UrbanLiving,3.9,5630,8,5179.6,New Arrival
+FUR1228,Chair,Plastic,HomeStyle,4.9,49861,6,46869.34,New Arrival
+FUR1229,Wardrobe,Metal,LuxWood,3.3,33870,30,23709.0,New Arrival
+FUR1230,Shelf,Plastic,UrbanLiving,3.8,49221,31,33962.49,Budget Friendly
+FUR1231,Bed,Fabric,FurniCraft,4.5,46942,31,32389.98,Premium
+FUR1232,Bed,Leather,HomeStyle,4.8,5453,19,4416.93,Budget Friendly
+FUR1233,Bed,Fabric,HomeStyle,4.3,39275,12,34562.0,Popular
+FUR1234,Bed,Metal,LuxWood,3.5,45370,11,40379.3,Popular
+FUR1235,Bed,Leather,ComfortLine,4.3,40396,16,33932.64,New Arrival
+FUR1236,Shelf,Plastic,FurniCraft,3.6,10328,17,8572.24,Best Seller
+FUR1237,Shelf,Leather,LuxWood,4.4,17534,21,13851.86,New Arrival
+FUR1238,Sofa,Wood,FurniCraft,4.9,21744,21,17177.76,Best Seller
+FUR1239,Dining Set,Leather,ComfortLine,4.4,21389,25,16041.75,Budget Friendly
+FUR1240,Table,Wood,ComfortLine,4.7,38320,12,33721.6,Popular
+FUR1241,Desk,Leather,LuxWood,3.0,37010,9,33679.1,Best Seller
+FUR1242,Bed,Wood,ComfortLine,4.4,16665,30,11665.5,Budget Friendly
+FUR1243,Chair,Metal,UrbanLiving,4.7,39865,20,31892.0,Popular
+FUR1244,Desk,Fabric,HomeStyle,3.1,10640,32,7235.2,Best Seller
+FUR1245,Shelf,Plastic,LuxWood,4.7,36716,33,24599.72,New Arrival
+FUR1246,Chair,Leather,FurniCraft,3.5,27521,16,23117.64,New Arrival
+FUR1247,Chair,Fabric,UrbanLiving,4.3,32049,34,21152.34,New Arrival
+FUR1248,Chair,Plastic,LuxWood,4.6,7618,27,5561.14,Budget Friendly
+FUR1249,Sofa,Plastic,ComfortLine,4.3,39004,20,31203.2,New Arrival
+FUR1250,Shelf,Wood,ComfortLine,3.2,3920,18,3214.4,Premium
+FUR1251,Chair,Metal,ComfortLine,4.2,45937,14,39505.82,Popular
+FUR1252,Bed,Metal,ComfortLine,4.1,6188,11,5507.32,Budget Friendly
+FUR1253,Wardrobe,Fabric,FurniCraft,4.8,14207,33,9518.69,New Arrival
+FUR1254,Chair,Metal,UrbanLiving,3.8,2238,7,2081.34,Popular
+FUR1255,Sofa,Leather,HomeStyle,3.6,34972,19,28327.32,Best Seller
+FUR1256,Desk,Metal,FurniCraft,4.5,12799,23,9855.23,New Arrival
+FUR1257,Shelf,Fabric,FurniCraft,3.8,7552,17,6268.16,Popular
+FUR1258,Dining Set,Metal,HomeStyle,4.3,30916,25,23187.0,Premium
+FUR1259,Sofa,Leather,HomeStyle,4.3,6927,31,4779.63,Best Seller
+FUR1260,Chair,Wood,ComfortLine,4.8,29964,33,20075.88,Premium
+FUR1261,Shelf,Fabric,FurniCraft,4.2,13164,24,10004.64,Popular
+FUR1262,Wardrobe,Wood,LuxWood,4.0,39158,29,27802.18,Premium
+FUR1263,Chair,Wood,HomeStyle,3.3,21071,10,18963.9,Popular
+FUR1264,Sofa,Wood,HomeStyle,3.2,8160,6,7670.4,Popular
+FUR1265,Table,Plastic,UrbanLiving,3.3,17810,26,13179.4,Premium
+FUR1266,Bed,Plastic,LuxWood,3.3,7126,36,4560.64,Popular
+FUR1267,Dining Set,Wood,LuxWood,4.3,32009,20,25607.2,New Arrival
+FUR1268,Desk,Fabric,HomeStyle,4.5,35584,22,27755.52,Popular
+FUR1269,Sofa,Leather,ComfortLine,4.1,48182,9,43845.62,Budget Friendly
+FUR1270,Shelf,Leather,UrbanLiving,4.7,27396,34,18081.36,Popular
+FUR1271,Dining Set,Metal,LuxWood,5.0,2192,23,1687.84,Budget Friendly
+FUR1272,Dining Set,Fabric,HomeStyle,4.6,38413,27,28041.49,Popular
+FUR1273,Dining Set,Plastic,LuxWood,4.4,14816,38,9185.92,Popular
+FUR1274,Chair,Wood,UrbanLiving,4.1,41082,17,34098.06,Premium
+FUR1275,Bed,Metal,UrbanLiving,3.9,34130,33,22867.1,New Arrival
+FUR1276,Chair,Leather,FurniCraft,3.2,42142,26,31185.08,New Arrival
+FUR1277,Shelf,Plastic,HomeStyle,3.8,38468,13,33467.16,Best Seller
+FUR1278,Chair,Plastic,UrbanLiving,4.8,32698,23,25177.46,Premium
+FUR1279,Table,Wood,FurniCraft,4.6,12655,10,11389.5,Premium
+FUR1280,Bed,Leather,FurniCraft,3.4,49897,19,40416.57,New Arrival
+FUR1281,Bed,Fabric,LuxWood,3.9,32075,24,24377.0,Premium
+FUR1282,Shelf,Plastic,LuxWood,4.6,11359,13,9882.33,New Arrival
+FUR1283,Desk,Wood,FurniCraft,3.1,38661,36,24743.04,Premium
+FUR1284,Table,Fabric,LuxWood,3.8,41579,8,38252.68,Popular
+FUR1285,Sofa,Leather,UrbanLiving,4.7,44056,22,34363.68,New Arrival
+FUR1286,Chair,Plastic,ComfortLine,3.8,35272,9,32097.52,New Arrival
+FUR1287,Wardrobe,Fabric,UrbanLiving,3.2,44581,24,33881.56,Budget Friendly
+FUR1288,Chair,Fabric,FurniCraft,4.1,16671,27,12169.83,Premium
+FUR1289,Dining Set,Fabric,FurniCraft,4.7,29048,15,24690.8,Premium
+FUR1290,Chair,Plastic,UrbanLiving,4.2,12738,26,9426.12,New Arrival
+FUR1291,Sofa,Plastic,LuxWood,3.5,27963,8,25725.96,Popular
+FUR1292,Chair,Metal,LuxWood,3.8,45954,33,30789.18,Popular
+FUR1293,Table,Leather,FurniCraft,3.9,8773,38,5439.26,Popular
+FUR1294,Table,Wood,HomeStyle,4.2,38584,17,32024.72,Premium
+FUR1295,Bed,Fabric,LuxWood,4.5,31894,13,27747.78,Budget Friendly
+FUR1296,Shelf,Metal,UrbanLiving,3.2,2717,35,1766.05,New Arrival
+FUR1297,Desk,Wood,LuxWood,4.8,13676,11,12171.64,Best Seller
+FUR1298,Wardrobe,Metal,UrbanLiving,3.0,6434,8,5919.28,Budget Friendly
+FUR1299,Dining Set,Plastic,FurniCraft,3.7,39825,23,30665.25,Best Seller
+FUR1300,Chair,Fabric,LuxWood,3.1,31100,34,20526.0,Budget Friendly
+FUR1301,Chair,Wood,UrbanLiving,3.8,6994,35,4546.1,Popular
+FUR1302,Sofa,Wood,FurniCraft,4.1,6234,39,3802.74,Premium
+FUR1303,Shelf,Wood,HomeStyle,4.0,5764,25,4323.0,Best Seller
+FUR1304,Table,Wood,UrbanLiving,3.3,45949,35,29866.85,Budget Friendly
+FUR1305,Wardrobe,Wood,HomeStyle,4.3,39405,23,30341.85,Premium
+FUR1306,Bed,Metal,HomeStyle,3.1,36872,35,23966.8,Best Seller
+FUR1307,Table,Fabric,ComfortLine,4.5,44215,36,28297.6,New Arrival
+FUR1308,Dining Set,Plastic,LuxWood,4.9,25185,6,23673.9,Budget Friendly
+FUR1309,Shelf,Plastic,UrbanLiving,3.7,45442,14,39080.12,New Arrival
+FUR1310,Dining Set,Plastic,HomeStyle,4.0,43153,6,40563.82,Popular
+FUR1311,Desk,Plastic,ComfortLine,3.8,13999,6,13159.06,New Arrival
+FUR1312,Bed,Metal,FurniCraft,3.0,38487,28,27710.64,New Arrival
+FUR1313,Desk,Leather,UrbanLiving,3.8,4581,21,3618.99,Budget Friendly
+FUR1314,Sofa,Fabric,HomeStyle,4.6,4763,36,3048.32,Popular
+FUR1315,Dining Set,Wood,LuxWood,4.2,29374,20,23499.2,New Arrival
+FUR1316,Sofa,Leather,ComfortLine,3.2,40759,20,32607.2,Premium
+FUR1317,Chair,Plastic,HomeStyle,4.7,12531,35,8145.15,Best Seller
+FUR1318,Desk,Leather,LuxWood,4.1,27307,28,19661.04,New Arrival
+FUR1319,Shelf,Fabric,HomeStyle,4.7,32835,5,31193.25,Popular
+FUR1320,Dining Set,Wood,UrbanLiving,4.2,13064,15,11104.4,New Arrival
+FUR1321,Wardrobe,Wood,UrbanLiving,4.1,13312,25,9984.0,Best Seller
+FUR1322,Bed,Fabric,UrbanLiving,3.2,39548,8,36384.16,Popular
+FUR1323,Table,Fabric,ComfortLine,3.3,38945,11,34661.05,Budget Friendly
+FUR1324,Shelf,Plastic,UrbanLiving,4.9,49937,30,34955.9,Popular
+FUR1325,Shelf,Wood,LuxWood,3.5,8476,16,7119.84,Budget Friendly
+FUR1326,Sofa,Leather,HomeStyle,5.0,26565,35,17267.25,Popular
+FUR1327,Desk,Metal,FurniCraft,4.1,4382,21,3461.78,Best Seller
+FUR1328,Dining Set,Metal,LuxWood,3.3,24463,37,15411.69,Best Seller
+FUR1329,Dining Set,Fabric,LuxWood,3.2,47276,15,40184.6,Popular
+FUR1330,Chair,Plastic,UrbanLiving,3.4,35402,32,24073.36,New Arrival
+FUR1331,Chair,Metal,ComfortLine,4.9,28345,36,18140.8,Best Seller
+FUR1332,Bed,Wood,HomeStyle,3.8,46764,5,44425.8,Budget Friendly
+FUR1333,Sofa,Fabric,ComfortLine,3.8,28946,32,19683.28,Budget Friendly
+FUR1334,Shelf,Leather,HomeStyle,3.6,16162,11,14384.18,Premium
+FUR1335,Dining Set,Fabric,HomeStyle,3.3,48773,6,45846.62,Budget Friendly
+FUR1336,Wardrobe,Leather,ComfortLine,4.0,10397,28,7485.84,Premium
+FUR1337,Sofa,Fabric,LuxWood,3.3,24335,8,22388.2,Popular
+FUR1338,Bed,Fabric,HomeStyle,4.7,47095,23,36263.15,Popular
+FUR1339,Bed,Fabric,ComfortLine,3.7,16394,30,11475.8,Popular
+FUR1340,Sofa,Leather,HomeStyle,3.7,29197,15,24817.45,New Arrival
+FUR1341,Bed,Leather,FurniCraft,3.9,24010,15,20408.5,New Arrival
+FUR1342,Sofa,Fabric,LuxWood,3.9,26123,7,24294.39,Premium
+FUR1343,Table,Metal,UrbanLiving,5.0,24387,16,20485.08,Budget Friendly
+FUR1344,Sofa,Plastic,HomeStyle,4.1,4890,7,4547.7,Budget Friendly
+FUR1345,Desk,Plastic,FurniCraft,3.2,29769,31,20540.61,Popular
+FUR1346,Sofa,Plastic,UrbanLiving,4.2,45626,6,42888.44,Best Seller
+FUR1347,Bed,Leather,UrbanLiving,3.3,10026,20,8020.8,New Arrival
+FUR1348,Dining Set,Leather,HomeStyle,3.1,5306,6,4987.64,New Arrival
+FUR1349,Desk,Metal,ComfortLine,4.9,35665,34,23538.9,Popular
+FUR1350,Bed,Plastic,HomeStyle,4.5,11277,24,8570.52,New Arrival
+FUR1351,Chair,Plastic,FurniCraft,5.0,44239,32,30082.52,Popular
+FUR1352,Chair,Fabric,UrbanLiving,4.0,49664,29,35261.44,Premium
+FUR1353,Dining Set,Leather,HomeStyle,4.1,16683,36,10677.12,Budget Friendly
+FUR1354,Dining Set,Plastic,ComfortLine,3.3,2670,14,2296.2,Best Seller
+FUR1355,Desk,Metal,HomeStyle,3.5,25675,37,16175.25,Budget Friendly
+FUR1356,Table,Metal,LuxWood,4.7,19889,17,16507.87,Budget Friendly
+FUR1357,Dining Set,Plastic,ComfortLine,3.7,46535,20,37228.0,Premium
+FUR1358,Chair,Leather,FurniCraft,4.7,15006,26,11104.44,New Arrival
+FUR1359,Sofa,Metal,UrbanLiving,4.4,28531,24,21683.56,Best Seller
+FUR1360,Bed,Fabric,HomeStyle,3.4,23639,31,16310.91,New Arrival
+FUR1361,Chair,Metal,ComfortLine,4.0,18633,20,14906.4,Budget Friendly
+FUR1362,Chair,Wood,LuxWood,4.4,36660,38,22729.2,Popular
+FUR1363,Table,Wood,ComfortLine,3.5,5439,36,3480.96,Budget Friendly
+FUR1364,Desk,Leather,LuxWood,4.7,34172,30,23920.4,New Arrival
+FUR1365,Desk,Plastic,FurniCraft,4.1,37622,29,26711.62,Budget Friendly
+FUR1366,Shelf,Leather,UrbanLiving,3.3,13577,6,12762.38,Popular
+FUR1367,Table,Leather,FurniCraft,4.2,13763,16,11560.92,Premium
+FUR1368,Sofa,Leather,HomeStyle,5.0,22176,13,19293.12,New Arrival
+FUR1369,Desk,Leather,ComfortLine,3.3,46386,16,38964.24,Budget Friendly
+FUR1370,Bed,Fabric,LuxWood,4.6,26255,30,18378.5,New Arrival
+FUR1371,Dining Set,Fabric,LuxWood,3.4,43003,13,37412.61,Premium
+FUR1372,Table,Metal,ComfortLine,4.6,21996,14,18916.56,Budget Friendly
+FUR1373,Dining Set,Wood,ComfortLine,4.5,37386,36,23927.04,Budget Friendly
+FUR1374,Chair,Leather,HomeStyle,3.6,23062,38,14298.44,New Arrival
+FUR1375,Bed,Metal,FurniCraft,3.7,37931,24,28827.56,New Arrival
+FUR1376,Bed,Wood,LuxWood,4.6,37710,6,35447.4,Popular
+FUR1377,Chair,Plastic,HomeStyle,3.9,36693,5,34858.35,Premium
+FUR1378,Table,Fabric,FurniCraft,4.5,37740,28,27172.8,Popular
+FUR1379,Chair,Wood,HomeStyle,3.3,13705,31,9456.45,Budget Friendly
+FUR1380,Dining Set,Plastic,LuxWood,4.7,45408,6,42683.52,New Arrival
+FUR1381,Shelf,Wood,ComfortLine,4.4,30047,35,19530.55,Budget Friendly
+FUR1382,Bed,Fabric,ComfortLine,4.8,12966,18,10632.12,Budget Friendly
+FUR1383,Wardrobe,Fabric,FurniCraft,3.3,19374,6,18211.56,Best Seller
+FUR1384,Wardrobe,Metal,UrbanLiving,4.2,13138,33,8802.46,Best Seller
+FUR1385,Dining Set,Leather,FurniCraft,4.2,17935,19,14527.35,Budget Friendly
+FUR1386,Sofa,Wood,UrbanLiving,3.7,47913,16,40246.92,New Arrival
+FUR1387,Desk,Wood,HomeStyle,3.9,2489,32,1692.52,Budget Friendly
+FUR1388,Chair,Plastic,HomeStyle,3.1,46516,24,35352.16,Best Seller
+FUR1389,Chair,Fabric,LuxWood,4.5,24260,28,17467.2,New Arrival
+FUR1390,Sofa,Wood,UrbanLiving,4.1,28069,25,21051.75,Budget Friendly
+FUR1391,Sofa,Fabric,LuxWood,3.1,21275,14,18296.5,Premium
+FUR1392,Dining Set,Wood,ComfortLine,4.4,38284,18,31392.88,Premium
+FUR1393,Dining Set,Metal,UrbanLiving,3.9,41178,22,32118.84,Budget Friendly
+FUR1394,Sofa,Leather,FurniCraft,3.1,34821,28,25071.12,New Arrival
+FUR1395,Bed,Wood,ComfortLine,4.9,18999,18,15579.18,Budget Friendly
+FUR1396,Dining Set,Fabric,ComfortLine,4.9,40712,38,25241.44,Budget Friendly
+FUR1397,Shelf,Metal,FurniCraft,4.0,42172,16,35424.48,Best Seller
+FUR1398,Dining Set,Wood,ComfortLine,3.2,35722,26,26434.28,Premium
+FUR1399,Chair,Plastic,UrbanLiving,4.5,12625,10,11362.5,Best Seller
+FUR1400,Dining Set,Leather,LuxWood,4.0,3629,26,2685.46,Best Seller
+FUR1401,Bed,Wood,ComfortLine,3.6,12973,18,10637.86,Budget Friendly
+FUR1402,Sofa,Metal,UrbanLiving,4.0,8859,20,7087.2,Best Seller
+FUR1403,Chair,Plastic,HomeStyle,4.0,43609,29,30962.39,Premium
+FUR1404,Dining Set,Metal,UrbanLiving,4.1,45307,36,28996.48,Best Seller
+FUR1405,Bed,Metal,LuxWood,3.9,47450,37,29893.5,Premium
+FUR1406,Shelf,Plastic,UrbanLiving,4.2,38046,24,28914.96,Best Seller
+FUR1407,Dining Set,Metal,FurniCraft,4.8,23839,22,18594.42,Premium
+FUR1408,Bed,Plastic,LuxWood,3.7,29216,7,27170.88,Best Seller
+FUR1409,Shelf,Wood,HomeStyle,4.5,20945,27,15289.85,Best Seller
+FUR1410,Sofa,Plastic,FurniCraft,4.8,8539,36,5464.96,New Arrival
+FUR1411,Dining Set,Plastic,UrbanLiving,3.9,35625,20,28500.0,Premium
+FUR1412,Shelf,Leather,LuxWood,3.9,6886,9,6266.26,Premium
+FUR1413,Chair,Plastic,HomeStyle,4.2,47713,8,43895.96,Premium
+FUR1414,Sofa,Plastic,FurniCraft,4.2,9485,25,7113.75,Popular
+FUR1415,Chair,Wood,HomeStyle,4.6,33455,18,27433.1,Best Seller
+FUR1416,Wardrobe,Leather,UrbanLiving,4.0,48448,35,31491.2,Premium
+FUR1417,Table,Fabric,HomeStyle,5.0,18767,18,15388.94,Popular
+FUR1418,Dining Set,Wood,ComfortLine,3.1,49165,10,44248.5,New Arrival
+FUR1419,Shelf,Wood,FurniCraft,3.0,30453,16,25580.52,Premium
+FUR1420,Table,Fabric,HomeStyle,4.3,12744,20,10195.2,Premium
+FUR1421,Table,Plastic,UrbanLiving,3.6,39102,21,30890.58,Popular
+FUR1422,Shelf,Metal,UrbanLiving,3.5,14226,27,10384.98,Best Seller
+FUR1423,Sofa,Leather,HomeStyle,3.6,29869,18,24492.58,New Arrival
+FUR1424,Dining Set,Metal,UrbanLiving,3.5,24588,11,21883.32,Premium
+FUR1425,Wardrobe,Fabric,LuxWood,3.1,15440,36,9881.6,Best Seller
+FUR1426,Chair,Wood,LuxWood,4.9,33709,19,27304.29,New Arrival
+FUR1427,Bed,Wood,LuxWood,3.4,49788,21,39332.52,Budget Friendly
+FUR1428,Chair,Leather,ComfortLine,4.5,24495,38,15186.9,Budget Friendly
+FUR1429,Bed,Wood,HomeStyle,4.5,39019,9,35507.29,New Arrival
+FUR1430,Chair,Wood,ComfortLine,4.9,46948,31,32394.12,Popular
+FUR1431,Shelf,Leather,UrbanLiving,3.1,2922,27,2133.06,New Arrival
+FUR1432,Wardrobe,Leather,ComfortLine,4.7,29526,18,24211.32,New Arrival
+FUR1433,Dining Set,Fabric,UrbanLiving,4.1,9957,19,8065.17,Popular
+FUR1434,Bed,Wood,UrbanLiving,4.3,35998,37,22678.74,Popular
+FUR1435,Dining Set,Wood,FurniCraft,4.3,45395,35,29506.75,Best Seller
+FUR1436,Dining Set,Fabric,LuxWood,4.6,26031,39,15878.91,Best Seller
+FUR1437,Dining Set,Plastic,UrbanLiving,3.7,12006,21,9484.74,Popular
+FUR1438,Desk,Plastic,FurniCraft,4.5,39701,32,26996.68,Budget Friendly
+FUR1439,Sofa,Plastic,LuxWood,4.1,49063,23,37778.51,Budget Friendly
+FUR1440,Chair,Fabric,UrbanLiving,4.6,27939,27,20395.47,New Arrival
+FUR1441,Dining Set,Wood,UrbanLiving,5.0,22324,36,14287.36,Premium
+FUR1442,Chair,Fabric,ComfortLine,3.4,24867,17,20639.61,New Arrival
+FUR1443,Dining Set,Fabric,ComfortLine,5.0,2203,24,1674.28,New Arrival
+FUR1444,Bed,Plastic,LuxWood,3.2,18544,39,11311.84,Premium
+FUR1445,Sofa,Metal,UrbanLiving,3.0,17899,9,16288.09,Popular
+FUR1446,Sofa,Wood,HomeStyle,3.1,31063,13,27024.81,Budget Friendly
+FUR1447,Shelf,Plastic,ComfortLine,3.7,27344,33,18320.48,New Arrival
+FUR1448,Desk,Metal,LuxWood,4.3,5748,10,5173.2,Premium
+FUR1449,Shelf,Metal,UrbanLiving,3.1,41486,29,29455.06,Best Seller
+FUR1450,Shelf,Leather,UrbanLiving,3.0,3093,35,2010.45,New Arrival
+FUR1451,Shelf,Wood,HomeStyle,4.9,17228,26,12748.72,Budget Friendly
+FUR1452,Shelf,Metal,LuxWood,4.6,22884,6,21510.96,Popular
+FUR1453,Shelf,Plastic,UrbanLiving,4.6,27183,9,24736.53,New Arrival
+FUR1454,Wardrobe,Leather,ComfortLine,4.8,18034,31,12443.46,New Arrival
+FUR1455,Sofa,Wood,HomeStyle,4.4,7710,29,5474.1,Premium
+FUR1456,Shelf,Fabric,LuxWood,3.2,44500,12,39160.0,Best Seller
+FUR1457,Dining Set,Plastic,HomeStyle,3.8,21259,5,20196.05,Best Seller
+FUR1458,Sofa,Metal,ComfortLine,4.4,37959,24,28848.84,Popular
+FUR1459,Sofa,Metal,LuxWood,3.6,35457,27,25883.61,Budget Friendly
+FUR1460,Table,Plastic,HomeStyle,4.4,22143,36,14171.52,Popular
+FUR1461,Wardrobe,Metal,FurniCraft,3.0,4103,15,3487.55,New Arrival
+FUR1462,Shelf,Leather,ComfortLine,3.6,2365,28,1702.8,New Arrival
+FUR1463,Chair,Wood,ComfortLine,4.1,48778,15,41461.3,Best Seller
+FUR1464,Bed,Leather,ComfortLine,4.3,46535,33,31178.45,Budget Friendly
+FUR1465,Desk,Metal,FurniCraft,4.2,18103,30,12672.1,Premium
+FUR1466,Dining Set,Fabric,FurniCraft,4.4,34510,20,27608.0,Budget Friendly
+FUR1467,Chair,Wood,UrbanLiving,3.0,26476,39,16150.36,New Arrival
+FUR1468,Wardrobe,Wood,HomeStyle,3.2,14742,24,11203.92,Premium
+FUR1469,Bed,Plastic,UrbanLiving,4.7,14391,7,13383.63,Budget Friendly
+FUR1470,Wardrobe,Plastic,HomeStyle,4.4,38940,5,36993.0,Budget Friendly
+FUR1471,Dining Set,Fabric,FurniCraft,3.2,30901,5,29355.95,Premium
+FUR1472,Sofa,Wood,FurniCraft,4.7,34001,21,26860.79,New Arrival
+FUR1473,Bed,Fabric,UrbanLiving,3.5,17623,6,16565.62,Budget Friendly
+FUR1474,Sofa,Plastic,LuxWood,4.0,4378,33,2933.26,Premium
+FUR1475,Dining Set,Plastic,UrbanLiving,3.3,23372,24,17762.72,New Arrival
+FUR1476,Chair,Wood,HomeStyle,4.4,46799,10,42119.1,Premium
+FUR1477,Dining Set,Leather,UrbanLiving,4.3,40437,12,35584.56,Premium
+FUR1478,Chair,Metal,ComfortLine,3.4,37503,33,25127.01,Budget Friendly
+FUR1479,Bed,Plastic,HomeStyle,4.7,32746,37,20629.98,New Arrival
+FUR1480,Bed,Plastic,HomeStyle,3.8,29923,7,27828.39,Budget Friendly
+FUR1481,Shelf,Leather,LuxWood,3.6,11867,39,7238.87,Popular
+FUR1482,Wardrobe,Leather,FurniCraft,3.3,43258,9,39364.78,Popular
+FUR1483,Shelf,Fabric,HomeStyle,3.5,35724,31,24649.56,New Arrival
+FUR1484,Wardrobe,Fabric,FurniCraft,3.0,11306,16,9497.04,Premium
+FUR1485,Shelf,Metal,UrbanLiving,4.2,41391,24,31457.16,Budget Friendly
+FUR1486,Sofa,Metal,ComfortLine,4.7,16908,24,12850.08,Budget Friendly
+FUR1487,Bed,Wood,LuxWood,4.1,29081,13,25300.47,New Arrival
+FUR1488,Chair,Fabric,FurniCraft,3.4,39228,8,36089.76,New Arrival
+FUR1489,Wardrobe,Plastic,HomeStyle,3.1,25386,23,19547.22,Popular
+FUR1490,Dining Set,Fabric,FurniCraft,3.4,48754,31,33640.26,Best Seller
+FUR1491,Wardrobe,Plastic,HomeStyle,3.8,47406,17,39346.98,New Arrival
+FUR1492,Chair,Leather,FurniCraft,4.5,30302,17,25150.66,Best Seller
+FUR1493,Shelf,Fabric,HomeStyle,3.4,21212,26,15696.88,New Arrival
+FUR1494,Wardrobe,Leather,UrbanLiving,4.4,37618,32,25580.24,Premium
+FUR1495,Desk,Metal,HomeStyle,4.7,48067,26,35569.58,Premium
+FUR1496,Sofa,Metal,HomeStyle,3.9,12698,23,9777.46,Popular
+FUR1497,Bed,Wood,ComfortLine,4.6,6594,12,5802.72,Popular
+FUR1498,Chair,Fabric,HomeStyle,4.1,27525,12,24222.0,Best Seller
+FUR1499,Bed,Leather,ComfortLine,4.3,16282,30,11397.4,New Arrival
+FUR1500,Desk,Plastic,LuxWood,4.1,16334,30,11433.8,Budget Friendly
+FUR1501,Wardrobe,Metal,ComfortLine,3.9,31179,27,22760.67,Popular
+FUR1502,Wardrobe,Metal,UrbanLiving,3.5,8644,17,7174.52,Budget Friendly
+FUR1503,Dining Set,Plastic,ComfortLine,3.6,37618,32,25580.24,Budget Friendly
+FUR1504,Desk,Leather,LuxWood,3.6,49701,13,43239.87,New Arrival
+FUR1505,Chair,Leather,UrbanLiving,4.1,34933,24,26549.08,Best Seller
+FUR1506,Dining Set,Fabric,FurniCraft,3.2,45469,23,35011.13,New Arrival
+FUR1507,Sofa,Fabric,FurniCraft,4.8,35687,16,29977.08,Popular
+FUR1508,Dining Set,Wood,ComfortLine,4.4,43073,19,34889.13,Budget Friendly
+FUR1509,Table,Metal,ComfortLine,3.8,19375,35,12593.75,New Arrival
+FUR1510,Chair,Fabric,LuxWood,3.3,32926,18,26999.32,New Arrival
+FUR1511,Table,Leather,LuxWood,4.8,38607,15,32815.95,New Arrival
+FUR1512,Desk,Plastic,HomeStyle,4.6,19642,30,13749.4,Popular
+FUR1513,Shelf,Leather,LuxWood,4.4,25993,31,17935.17,Best Seller
+FUR1514,Table,Metal,HomeStyle,3.5,46386,15,39428.1,New Arrival
+FUR1515,Sofa,Leather,UrbanLiving,3.8,48287,38,29937.94,Popular
+FUR1516,Dining Set,Wood,ComfortLine,3.2,23188,23,17854.76,Budget Friendly
+FUR1517,Shelf,Metal,UrbanLiving,3.4,34596,10,31136.4,Premium
+FUR1518,Dining Set,Plastic,LuxWood,4.6,29772,32,20244.96,Popular
+FUR1519,Table,Wood,UrbanLiving,4.4,32857,5,31214.15,Premium
+FUR1520,Dining Set,Metal,UrbanLiving,4.2,12776,39,7793.36,New Arrival
+FUR1521,Desk,Plastic,UrbanLiving,4.8,34835,12,30654.8,New Arrival
+FUR1522,Shelf,Wood,LuxWood,4.2,11788,11,10491.32,Popular
+FUR1523,Desk,Wood,UrbanLiving,3.9,7660,15,6511.0,Premium
+FUR1524,Table,Metal,HomeStyle,3.7,6478,8,5959.76,New Arrival
+FUR1525,Desk,Fabric,LuxWood,4.9,10210,29,7249.1,Budget Friendly
+FUR1526,Sofa,Wood,UrbanLiving,3.2,12922,16,10854.48,Best Seller
+FUR1527,Table,Wood,LuxWood,4.9,38289,30,26802.3,Best Seller
+FUR1528,Table,Plastic,FurniCraft,4.7,35340,16,29685.6,New Arrival
+FUR1529,Table,Leather,HomeStyle,3.3,41850,28,30132.0,Premium
+FUR1530,Chair,Metal,UrbanLiving,4.1,40163,20,32130.4,New Arrival
+FUR1531,Dining Set,Metal,FurniCraft,4.7,20642,17,17132.86,Premium
+FUR1532,Chair,Fabric,FurniCraft,4.1,13094,29,9296.74,Budget Friendly
+FUR1533,Chair,Fabric,LuxWood,4.8,24423,8,22469.16,Premium
+FUR1534,Sofa,Metal,FurniCraft,4.9,35418,15,30105.3,New Arrival
+FUR1535,Shelf,Fabric,HomeStyle,3.8,7741,36,4954.24,Budget Friendly
+FUR1536,Dining Set,Plastic,HomeStyle,3.8,48049,11,42763.61,Popular
+FUR1537,Desk,Metal,ComfortLine,4.9,8838,15,7512.3,Best Seller
+FUR1538,Wardrobe,Fabric,HomeStyle,4.4,5262,32,3578.16,New Arrival
+FUR1539,Table,Metal,FurniCraft,3.2,6996,27,5107.08,New Arrival
+FUR1540,Desk,Leather,HomeStyle,3.1,46594,27,34013.62,New Arrival
+FUR1541,Table,Wood,LuxWood,4.1,24164,32,16431.52,Budget Friendly
+FUR1542,Sofa,Metal,ComfortLine,4.9,37595,30,26316.5,Popular
+FUR1543,Table,Wood,FurniCraft,4.7,32257,29,22902.47,Premium
+FUR1544,Chair,Fabric,ComfortLine,4.4,16211,33,10861.37,Popular
+FUR1545,Dining Set,Wood,FurniCraft,3.3,32453,23,24988.81,Budget Friendly
+FUR1546,Wardrobe,Metal,LuxWood,3.5,7232,37,4556.16,New Arrival
+FUR1547,Bed,Leather,ComfortLine,4.8,4217,18,3457.94,Best Seller
+FUR1548,Table,Fabric,UrbanLiving,3.4,26229,18,21507.78,New Arrival
+FUR1549,Desk,Metal,FurniCraft,3.6,16232,39,9901.52,Premium
+FUR1550,Chair,Fabric,UrbanLiving,3.3,27613,34,18224.58,Best Seller
+FUR1551,Bed,Plastic,ComfortLine,4.4,16026,32,10897.68,New Arrival
+FUR1552,Wardrobe,Wood,UrbanLiving,4.9,30554,21,24137.66,Best Seller
+FUR1553,Bed,Plastic,UrbanLiving,3.5,32908,7,30604.44,Popular
+FUR1554,Chair,Metal,ComfortLine,4.0,21610,20,17288.0,Budget Friendly
+FUR1555,Dining Set,Leather,LuxWood,4.3,48646,34,32106.36,New Arrival
+FUR1556,Dining Set,Fabric,UrbanLiving,5.0,41605,33,27875.35,Premium
+FUR1557,Shelf,Wood,UrbanLiving,3.2,9031,19,7315.11,Popular
+FUR1558,Dining Set,Fabric,LuxWood,4.0,49574,29,35197.54,New Arrival
+FUR1559,Shelf,Metal,UrbanLiving,3.8,27515,27,20085.95,Popular
+FUR1560,Bed,Fabric,UrbanLiving,4.7,38484,29,27323.64,Premium
+FUR1561,Sofa,Wood,UrbanLiving,4.0,38182,11,33981.98,New Arrival
+FUR1562,Desk,Metal,HomeStyle,3.2,2570,26,1901.8,Premium
+FUR1563,Desk,Fabric,LuxWood,4.3,34254,21,27060.66,Best Seller
+FUR1564,Bed,Leather,UrbanLiving,4.5,21288,22,16604.64,Premium
+FUR1565,Table,Metal,LuxWood,3.0,15288,14,13147.68,Best Seller
+FUR1566,Table,Metal,FurniCraft,4.7,31877,14,27414.22,New Arrival
+FUR1567,Dining Set,Leather,FurniCraft,3.4,20889,11,18591.21,Best Seller
+FUR1568,Desk,Plastic,UrbanLiving,4.1,2917,31,2012.73,New Arrival
+FUR1569,Desk,Wood,LuxWood,3.8,12066,37,7601.58,New Arrival
+FUR1570,Shelf,Plastic,LuxWood,4.4,31504,5,29928.8,Budget Friendly
+FUR1571,Sofa,Fabric,LuxWood,3.7,8982,38,5568.84,New Arrival
+FUR1572,Chair,Leather,HomeStyle,4.7,41104,8,37815.68,Best Seller
+FUR1573,Table,Plastic,FurniCraft,4.5,20062,21,15848.98,Budget Friendly
+FUR1574,Desk,Metal,LuxWood,4.3,18999,8,17479.08,Budget Friendly
+FUR1575,Shelf,Fabric,LuxWood,4.6,11941,30,8358.7,New Arrival
+FUR1576,Wardrobe,Fabric,HomeStyle,4.5,25470,8,23432.4,Premium
+FUR1577,Shelf,Plastic,HomeStyle,3.1,47148,5,44790.6,Premium
+FUR1578,Table,Plastic,LuxWood,3.8,23133,11,20588.37,Budget Friendly
+FUR1579,Table,Leather,ComfortLine,4.9,46435,34,30647.1,New Arrival
+FUR1580,Shelf,Wood,LuxWood,3.3,6529,13,5680.23,Premium
+FUR1581,Chair,Plastic,LuxWood,4.5,19519,39,11906.59,New Arrival
+FUR1582,Bed,Plastic,HomeStyle,4.9,14192,12,12488.96,New Arrival
+FUR1583,Table,Metal,HomeStyle,3.1,10566,28,7607.52,Budget Friendly
+FUR1584,Shelf,Fabric,LuxWood,4.4,9226,23,7104.02,Budget Friendly
+FUR1585,Desk,Wood,LuxWood,3.9,39930,31,27551.7,Popular
+FUR1586,Shelf,Metal,LuxWood,4.2,23259,36,14885.76,Premium
+FUR1587,Sofa,Leather,HomeStyle,3.2,36087,18,29591.34,Premium
+FUR1588,Bed,Leather,LuxWood,3.1,3141,22,2449.98,Premium
+FUR1589,Wardrobe,Plastic,LuxWood,4.3,6627,32,4506.36,Best Seller
+FUR1590,Chair,Plastic,UrbanLiving,4.6,49269,33,33010.23,New Arrival
+FUR1591,Dining Set,Leather,ComfortLine,4.6,4690,20,3752.0,Budget Friendly
+FUR1592,Wardrobe,Plastic,FurniCraft,4.1,42091,39,25675.51,Premium
+FUR1593,Bed,Wood,ComfortLine,3.2,5255,35,3415.75,Popular
+FUR1594,Bed,Plastic,UrbanLiving,4.4,7213,8,6635.96,Premium
+FUR1595,Bed,Fabric,FurniCraft,3.5,38876,21,30712.04,New Arrival
+FUR1596,Wardrobe,Plastic,LuxWood,4.8,21404,30,14982.8,New Arrival
+FUR1597,Desk,Metal,UrbanLiving,4.7,27380,8,25189.6,Budget Friendly
+FUR1598,Bed,Wood,LuxWood,4.4,27520,34,18163.2,Best Seller
+FUR1599,Shelf,Metal,HomeStyle,4.9,21173,34,13974.18,Budget Friendly
+FUR1600,Wardrobe,Metal,UrbanLiving,3.1,25989,26,19231.86,Premium
+FUR1601,Dining Set,Fabric,HomeStyle,4.5,44570,15,37884.5,Popular
+FUR1602,Bed,Wood,UrbanLiving,3.7,26519,6,24927.86,Budget Friendly
+FUR1603,Shelf,Wood,UrbanLiving,4.8,24439,16,20528.76,Best Seller
+FUR1604,Desk,Wood,HomeStyle,3.5,13413,34,8852.58,Budget Friendly
+FUR1605,Sofa,Wood,FurniCraft,4.4,16995,22,13256.1,New Arrival
+FUR1606,Desk,Wood,ComfortLine,4.8,25559,30,17891.3,Premium
+FUR1607,Dining Set,Fabric,LuxWood,3.1,47351,11,42142.39,Premium
+FUR1608,Bed,Plastic,UrbanLiving,3.8,25513,5,24237.35,Premium
+FUR1609,Dining Set,Metal,LuxWood,4.5,7021,30,4914.7,Premium
+FUR1610,Wardrobe,Wood,HomeStyle,3.9,34464,27,25158.72,Premium
+FUR1611,Table,Plastic,LuxWood,3.5,23119,30,16183.3,Premium
+FUR1612,Bed,Plastic,HomeStyle,3.4,31299,10,28169.1,Popular
+FUR1613,Table,Metal,LuxWood,3.3,41350,10,37215.0,Best Seller
+FUR1614,Shelf,Fabric,ComfortLine,4.7,48223,12,42436.24,Premium
+FUR1615,Sofa,Leather,ComfortLine,4.2,27517,28,19812.24,Best Seller
+FUR1616,Chair,Leather,ComfortLine,3.2,15117,26,11186.58,Premium
+FUR1617,Dining Set,Plastic,ComfortLine,3.8,24250,23,18672.5,Budget Friendly
+FUR1618,Desk,Metal,ComfortLine,3.7,20950,22,16341.0,Premium
+FUR1619,Sofa,Leather,ComfortLine,3.4,19359,35,12583.35,New Arrival
+FUR1620,Bed,Plastic,HomeStyle,3.9,25596,34,16893.36,Popular
+FUR1621,Table,Fabric,UrbanLiving,3.7,27530,37,17343.9,Budget Friendly
+FUR1622,Desk,Leather,LuxWood,3.7,3262,14,2805.32,Budget Friendly
+FUR1623,Table,Plastic,ComfortLine,4.5,42150,16,35406.0,New Arrival
+FUR1624,Wardrobe,Plastic,HomeStyle,3.4,24615,34,16245.9,Premium
+FUR1625,Table,Wood,HomeStyle,4.3,5327,31,3675.63,Popular
+FUR1626,Wardrobe,Fabric,HomeStyle,4.1,31768,13,27638.16,Budget Friendly
+FUR1627,Shelf,Wood,UrbanLiving,4.1,30850,25,23137.5,Popular
+FUR1628,Desk,Metal,LuxWood,4.3,44788,16,37621.92,Budget Friendly
+FUR1629,Desk,Wood,UrbanLiving,4.1,18848,33,12628.16,Premium
+FUR1630,Chair,Wood,FurniCraft,4.8,48830,37,30762.9,Budget Friendly
+FUR1631,Bed,Leather,HomeStyle,4.4,41542,19,33649.02,Budget Friendly
+FUR1632,Wardrobe,Plastic,FurniCraft,4.1,17160,6,16130.4,Best Seller
+FUR1633,Chair,Fabric,ComfortLine,4.7,35998,22,28078.44,Premium
+FUR1634,Table,Wood,ComfortLine,4.2,29230,7,27183.9,New Arrival
+FUR1635,Table,Fabric,UrbanLiving,3.6,11076,11,9857.64,New Arrival
+FUR1636,Chair,Wood,LuxWood,3.4,5805,22,4527.9,Premium
+FUR1637,Desk,Metal,FurniCraft,3.3,33085,37,20843.55,New Arrival
+FUR1638,Table,Wood,LuxWood,4.8,16715,35,10864.75,Premium
+FUR1639,Dining Set,Leather,UrbanLiving,4.4,7750,15,6587.5,New Arrival
+FUR1640,Shelf,Plastic,ComfortLine,4.9,15232,8,14013.44,Best Seller
+FUR1641,Shelf,Metal,LuxWood,4.2,37903,22,29564.34,New Arrival
+FUR1642,Dining Set,Wood,LuxWood,3.9,8953,8,8236.76,Budget Friendly
+FUR1643,Chair,Fabric,ComfortLine,3.1,34093,38,21137.66,Premium
+FUR1644,Dining Set,Metal,FurniCraft,4.3,27500,33,18425.0,Popular
+FUR1645,Wardrobe,Metal,ComfortLine,4.2,24418,28,17580.96,Popular
+FUR1646,Wardrobe,Wood,LuxWood,5.0,36314,26,26872.36,Premium
+FUR1647,Chair,Metal,FurniCraft,3.5,24449,6,22982.06,Best Seller
+FUR1648,Dining Set,Fabric,FurniCraft,4.1,19478,10,17530.2,New Arrival
+FUR1649,Wardrobe,Metal,ComfortLine,4.3,37179,29,26397.09,Best Seller
+FUR1650,Desk,Fabric,LuxWood,4.3,48881,25,36660.75,Popular
+FUR1651,Dining Set,Wood,UrbanLiving,4.1,27338,20,21870.4,Premium
+FUR1652,Desk,Plastic,LuxWood,4.6,28899,35,18784.35,Premium
+FUR1653,Wardrobe,Metal,HomeStyle,3.4,6145,18,5038.9,Best Seller
+FUR1654,Shelf,Plastic,UrbanLiving,4.5,34101,32,23188.68,Best Seller
+FUR1655,Wardrobe,Fabric,FurniCraft,4.2,4775,36,3056.0,New Arrival
+FUR1656,Desk,Metal,UrbanLiving,4.8,47961,32,32613.48,Budget Friendly
+FUR1657,Sofa,Leather,FurniCraft,4.7,33647,13,29272.89,Budget Friendly
+FUR1658,Bed,Plastic,FurniCraft,3.6,47619,26,35238.06,New Arrival
+FUR1659,Table,Metal,UrbanLiving,3.6,47838,36,30616.32,Budget Friendly
+FUR1660,Dining Set,Plastic,FurniCraft,5.0,21539,9,19600.49,Popular
+FUR1661,Sofa,Metal,FurniCraft,4.1,38738,27,28278.74,Budget Friendly
+FUR1662,Wardrobe,Wood,HomeStyle,4.8,28616,9,26040.56,New Arrival
+FUR1663,Shelf,Plastic,LuxWood,3.3,16119,36,10316.16,Budget Friendly
+FUR1664,Chair,Leather,LuxWood,4.3,27159,14,23356.74,Premium
+FUR1665,Wardrobe,Leather,HomeStyle,4.6,39099,19,31670.19,Best Seller
+FUR1666,Shelf,Fabric,UrbanLiving,4.9,12295,11,10942.55,Popular
+FUR1667,Bed,Metal,ComfortLine,3.7,36710,33,24595.7,Premium
+FUR1668,Wardrobe,Plastic,ComfortLine,4.4,26685,7,24817.05,Premium
+FUR1669,Desk,Fabric,ComfortLine,4.1,27479,23,21158.83,New Arrival
+FUR1670,Chair,Plastic,HomeStyle,3.1,48172,14,41427.92,Best Seller
+FUR1671,Shelf,Metal,HomeStyle,4.4,35629,32,24227.72,Best Seller
+FUR1672,Shelf,Leather,FurniCraft,4.4,44043,33,29508.81,Popular
+FUR1673,Shelf,Wood,ComfortLine,4.9,19033,19,15416.73,New Arrival
+FUR1674,Bed,Leather,UrbanLiving,4.0,38902,39,23730.22,Popular
+FUR1675,Wardrobe,Fabric,UrbanLiving,3.5,46571,10,41913.9,Budget Friendly
+FUR1676,Bed,Wood,ComfortLine,3.1,17408,16,14622.72,Premium
+FUR1677,Dining Set,Fabric,ComfortLine,3.8,19420,17,16118.6,Popular
+FUR1678,Table,Metal,ComfortLine,3.6,18351,33,12295.17,Premium
+FUR1679,Table,Wood,HomeStyle,4.5,6131,23,4720.87,New Arrival
+FUR1680,Dining Set,Fabric,HomeStyle,3.7,46825,7,43547.25,Budget Friendly
+FUR1681,Wardrobe,Metal,HomeStyle,4.9,13349,12,11747.12,New Arrival
+FUR1682,Desk,Leather,LuxWood,4.9,46254,12,40703.52,Budget Friendly
+FUR1683,Bed,Metal,UrbanLiving,4.2,40225,24,30571.0,Budget Friendly
+FUR1684,Chair,Plastic,UrbanLiving,4.9,40847,8,37579.24,Premium
+FUR1685,Shelf,Metal,FurniCraft,4.5,14453,25,10839.75,New Arrival
+FUR1686,Shelf,Metal,HomeStyle,4.1,20814,7,19357.02,New Arrival
+FUR1687,Wardrobe,Plastic,LuxWood,3.4,20263,12,17831.44,Popular
+FUR1688,Desk,Fabric,LuxWood,3.9,14158,27,10335.34,New Arrival
+FUR1689,Table,Fabric,UrbanLiving,4.1,17735,20,14188.0,Popular
+FUR1690,Table,Metal,HomeStyle,4.7,17830,17,14798.9,Best Seller
+FUR1691,Shelf,Plastic,FurniCraft,4.0,49893,7,46400.49,Best Seller
+FUR1692,Wardrobe,Plastic,HomeStyle,4.8,46673,13,40605.51,Best Seller
+FUR1693,Bed,Leather,ComfortLine,4.3,25926,18,21259.32,New Arrival
+FUR1694,Table,Fabric,HomeStyle,3.3,47066,17,39064.78,New Arrival
+FUR1695,Bed,Wood,ComfortLine,5.0,36779,11,32733.31,Popular
+FUR1696,Desk,Fabric,ComfortLine,4.1,5373,19,4352.13,Budget Friendly
+FUR1697,Table,Fabric,FurniCraft,3.8,12335,11,10978.15,Popular
+FUR1698,Table,Leather,UrbanLiving,4.3,25741,38,15959.42,Best Seller
+FUR1699,Sofa,Wood,HomeStyle,3.2,12692,26,9392.08,Popular
+FUR1700,Table,Leather,ComfortLine,4.3,49295,28,35492.4,Budget Friendly
+FUR1701,Dining Set,Wood,HomeStyle,4.0,47541,5,45163.95,New Arrival
+FUR1702,Chair,Metal,UrbanLiving,3.8,36057,14,31009.02,Popular
+FUR1703,Dining Set,Wood,UrbanLiving,4.9,3447,20,2757.6,Best Seller
+FUR1704,Wardrobe,Leather,LuxWood,4.0,21583,12,18993.04,Best Seller
+FUR1705,Wardrobe,Fabric,UrbanLiving,3.4,24765,29,17583.15,New Arrival
+FUR1706,Bed,Wood,FurniCraft,3.9,25906,16,21761.04,Popular
+FUR1707,Dining Set,Wood,ComfortLine,4.8,21567,29,15312.57,Budget Friendly
+FUR1708,Dining Set,Plastic,LuxWood,3.4,16139,21,12749.81,New Arrival
+FUR1709,Dining Set,Fabric,FurniCraft,3.4,48525,30,33967.5,Popular
+FUR1710,Desk,Metal,HomeStyle,3.0,40230,18,32988.6,Premium
+FUR1711,Table,Leather,ComfortLine,3.0,21520,27,15709.6,Best Seller
+FUR1712,Chair,Metal,UrbanLiving,4.7,21702,10,19531.8,Budget Friendly
+FUR1713,Bed,Fabric,ComfortLine,4.5,27566,9,25085.06,Budget Friendly
+FUR1714,Dining Set,Wood,HomeStyle,3.7,9657,29,6856.47,Budget Friendly
+FUR1715,Dining Set,Wood,LuxWood,4.4,39688,22,30956.64,Best Seller
+FUR1716,Sofa,Fabric,LuxWood,3.8,32134,17,26671.22,Popular
+FUR1717,Bed,Wood,LuxWood,4.9,12345,18,10122.9,New Arrival
+FUR1718,Dining Set,Wood,UrbanLiving,4.9,43185,32,29365.8,Popular
+FUR1719,Bed,Wood,FurniCraft,3.8,29413,22,22942.14,New Arrival
+FUR1720,Table,Leather,FurniCraft,4.7,7208,32,4901.44,Budget Friendly
+FUR1721,Sofa,Leather,ComfortLine,4.5,35455,31,24463.95,Popular
+FUR1722,Bed,Plastic,UrbanLiving,3.6,30018,36,19211.52,Budget Friendly
+FUR1723,Chair,Metal,LuxWood,3.5,47991,13,41752.17,Premium
+FUR1724,Chair,Fabric,LuxWood,3.9,10080,36,6451.2,Budget Friendly
+FUR1725,Wardrobe,Fabric,HomeStyle,4.6,23902,24,18165.52,Budget Friendly
+FUR1726,Sofa,Fabric,HomeStyle,4.9,11486,32,7810.48,New Arrival
+FUR1727,Sofa,Plastic,LuxWood,4.5,40862,37,25743.06,Premium
+FUR1728,Wardrobe,Leather,LuxWood,4.7,23158,8,21305.36,Budget Friendly
+FUR1729,Bed,Plastic,UrbanLiving,4.2,42460,38,26325.2,Budget Friendly
+FUR1730,Sofa,Fabric,FurniCraft,4.7,45856,7,42646.08,Premium
+FUR1731,Chair,Metal,HomeStyle,4.6,37871,30,26509.7,Premium
+FUR1732,Chair,Wood,FurniCraft,3.8,37208,12,32743.04,Popular
+FUR1733,Dining Set,Leather,UrbanLiving,4.1,22519,10,20267.1,New Arrival
+FUR1734,Table,Leather,LuxWood,4.6,33379,20,26703.2,Premium
+FUR1735,Sofa,Plastic,FurniCraft,3.1,30378,28,21872.16,Premium
+FUR1736,Bed,Leather,LuxWood,4.6,41892,34,27648.72,Best Seller
+FUR1737,Wardrobe,Fabric,LuxWood,3.4,16031,17,13305.73,Premium
+FUR1738,Wardrobe,Fabric,ComfortLine,4.0,16536,9,15047.76,New Arrival
+FUR1739,Bed,Plastic,FurniCraft,4.6,2446,29,1736.66,Budget Friendly
+FUR1740,Desk,Fabric,FurniCraft,3.5,38683,24,29399.08,Budget Friendly
+FUR1741,Shelf,Metal,LuxWood,3.5,19618,22,15302.04,Budget Friendly
+FUR1742,Table,Plastic,UrbanLiving,3.8,8587,22,6697.86,Budget Friendly
+FUR1743,Wardrobe,Metal,ComfortLine,4.8,33480,6,31471.2,Best Seller
+FUR1744,Sofa,Wood,LuxWood,3.0,34994,14,30094.84,Premium
+FUR1745,Table,Metal,HomeStyle,4.8,22527,16,18922.68,Budget Friendly
+FUR1746,Sofa,Wood,HomeStyle,3.3,25569,17,21222.27,Popular
+FUR1747,Desk,Wood,ComfortLine,5.0,13151,15,11178.35,Budget Friendly
+FUR1748,Chair,Metal,UrbanLiving,4.9,7558,23,5819.66,Premium
+FUR1749,Table,Plastic,LuxWood,4.0,46739,39,28510.79,Budget Friendly
+FUR1750,Dining Set,Fabric,FurniCraft,4.0,34954,30,24467.8,Best Seller
+FUR1751,Wardrobe,Fabric,ComfortLine,4.0,49448,18,40547.36,New Arrival
+FUR1752,Table,Wood,UrbanLiving,4.3,49327,28,35515.44,New Arrival
+FUR1753,Table,Wood,FurniCraft,3.2,45837,5,43545.15,Premium
+FUR1754,Table,Plastic,HomeStyle,3.1,37303,26,27604.22,New Arrival
+FUR1755,Shelf,Leather,HomeStyle,3.1,36700,27,26791.0,New Arrival
+FUR1756,Table,Metal,FurniCraft,3.9,29500,23,22715.0,Popular
+FUR1757,Sofa,Wood,ComfortLine,3.6,4032,22,3144.96,Premium
+FUR1758,Chair,Fabric,HomeStyle,4.2,3252,16,2731.68,Premium
+FUR1759,Desk,Plastic,LuxWood,5.0,7509,32,5106.12,New Arrival
+FUR1760,Bed,Metal,FurniCraft,3.8,39842,32,27092.56,New Arrival
+FUR1761,Table,Plastic,FurniCraft,4.1,15900,37,10017.0,New Arrival
+FUR1762,Wardrobe,Metal,HomeStyle,3.8,16523,23,12722.71,Best Seller
+FUR1763,Table,Metal,ComfortLine,4.7,3881,32,2639.08,Budget Friendly
+FUR1764,Wardrobe,Wood,LuxWood,4.8,35037,30,24525.9,Best Seller
+FUR1765,Sofa,Plastic,ComfortLine,4.8,3630,39,2214.3,Premium
+FUR1766,Wardrobe,Plastic,UrbanLiving,4.9,22789,38,14129.18,Popular
+FUR1767,Dining Set,Fabric,UrbanLiving,3.1,24523,39,14959.03,Budget Friendly
+FUR1768,Bed,Fabric,HomeStyle,4.7,19958,20,15966.4,Popular
+FUR1769,Chair,Wood,HomeStyle,4.5,48151,17,39965.33,Premium
+FUR1770,Wardrobe,Wood,HomeStyle,3.5,45852,27,33471.96,Premium
+FUR1771,Wardrobe,Leather,UrbanLiving,4.9,3695,26,2734.3,Popular
+FUR1772,Chair,Fabric,ComfortLine,3.3,16821,20,13456.8,Popular
+FUR1773,Bed,Metal,ComfortLine,4.4,5262,32,3578.16,Popular
+FUR1774,Table,Plastic,HomeStyle,3.4,3445,39,2101.45,Premium
+FUR1775,Wardrobe,Wood,LuxWood,3.9,18436,12,16223.68,New Arrival
+FUR1776,Chair,Plastic,ComfortLine,4.4,11949,26,8842.26,Popular
+FUR1777,Dining Set,Plastic,UrbanLiving,4.1,25963,25,19472.25,Budget Friendly
+FUR1778,Dining Set,Leather,FurniCraft,3.9,31932,30,22352.4,Premium
+FUR1779,Sofa,Fabric,FurniCraft,3.7,8901,25,6675.75,Best Seller
+FUR1780,Chair,Wood,FurniCraft,4.7,35487,29,25195.77,Best Seller
+FUR1781,Sofa,Plastic,LuxWood,3.3,10597,5,10067.15,Budget Friendly
+FUR1782,Dining Set,Wood,HomeStyle,3.9,8855,10,7969.5,New Arrival
+FUR1783,Bed,Metal,UrbanLiving,4.8,20678,27,15094.94,Popular
+FUR1784,Table,Leather,LuxWood,4.7,10263,27,7491.99,Premium
+FUR1785,Chair,Metal,UrbanLiving,3.8,49288,27,35980.24,Popular
+FUR1786,Desk,Wood,UrbanLiving,4.5,27805,36,17795.2,Premium
+FUR1787,Dining Set,Wood,HomeStyle,4.6,28143,34,18574.38,Best Seller
+FUR1788,Dining Set,Fabric,FurniCraft,4.8,13874,17,11515.42,Popular
+FUR1789,Desk,Plastic,HomeStyle,4.1,29529,22,23032.62,Budget Friendly
+FUR1790,Shelf,Plastic,LuxWood,3.4,22866,27,16692.18,New Arrival
+FUR1791,Dining Set,Metal,LuxWood,3.5,16079,19,13023.99,Budget Friendly
+FUR1792,Wardrobe,Leather,LuxWood,3.6,9243,37,5823.09,New Arrival
+FUR1793,Bed,Plastic,HomeStyle,4.2,31872,25,23904.0,Popular
+FUR1794,Chair,Fabric,UrbanLiving,3.1,11018,27,8043.14,Popular
+FUR1795,Desk,Metal,UrbanLiving,4.3,14100,31,9729.0,New Arrival
+FUR1796,Wardrobe,Metal,ComfortLine,3.7,21800,22,17004.0,Best Seller
+FUR1797,Desk,Fabric,LuxWood,3.6,28910,28,20815.2,Premium
+FUR1798,Chair,Leather,UrbanLiving,4.8,31437,11,27978.93,Budget Friendly
+FUR1799,Sofa,Fabric,ComfortLine,3.9,39588,24,30086.88,Budget Friendly
+FUR1800,Chair,Leather,UrbanLiving,3.2,13001,31,8970.69,Budget Friendly
+FUR1801,Shelf,Fabric,LuxWood,4.7,48675,10,43807.5,Popular
+FUR1802,Chair,Fabric,FurniCraft,3.1,21942,31,15139.98,Budget Friendly
+FUR1803,Chair,Wood,LuxWood,4.5,22862,13,19889.94,Premium
+FUR1804,Shelf,Metal,HomeStyle,4.5,13669,35,8884.85,Premium
+FUR1805,Bed,Fabric,UrbanLiving,3.7,17916,25,13437.0,New Arrival
+FUR1806,Dining Set,Fabric,UrbanLiving,4.6,12878,30,9014.6,Popular
+FUR1807,Chair,Plastic,HomeStyle,4.0,4985,17,4137.55,Premium
+FUR1808,Shelf,Metal,HomeStyle,3.9,34369,27,25089.37,Best Seller
+FUR1809,Wardrobe,Plastic,FurniCraft,3.1,10112,24,7685.12,Popular
+FUR1810,Sofa,Metal,UrbanLiving,3.6,43235,32,29399.8,Popular
+FUR1811,Sofa,Plastic,UrbanLiving,4.9,20931,21,16535.49,Premium
+FUR1812,Chair,Fabric,FurniCraft,3.8,29340,32,19951.2,Best Seller
+FUR1813,Bed,Fabric,ComfortLine,4.1,2336,6,2195.84,New Arrival
+FUR1814,Bed,Wood,FurniCraft,4.1,44933,29,31902.43,Premium
+FUR1815,Wardrobe,Plastic,LuxWood,4.2,21363,10,19226.7,Best Seller
+FUR1816,Chair,Leather,UrbanLiving,3.1,47536,15,40405.6,Popular
+FUR1817,Sofa,Wood,HomeStyle,3.7,5968,10,5371.2,Best Seller
+FUR1818,Bed,Plastic,LuxWood,4.4,35678,15,30326.3,Popular
+FUR1819,Chair,Plastic,UrbanLiving,3.4,18279,18,14988.78,Premium
+FUR1820,Desk,Wood,FurniCraft,3.4,5129,6,4821.26,Premium
+FUR1821,Bed,Fabric,LuxWood,3.0,40215,7,37399.95,Budget Friendly
+FUR1822,Shelf,Plastic,UrbanLiving,3.9,40897,39,24947.17,Budget Friendly
+FUR1823,Desk,Fabric,ComfortLine,4.8,7850,37,4945.5,Budget Friendly
+FUR1824,Dining Set,Wood,ComfortLine,3.1,22588,28,16263.36,Premium
+FUR1825,Bed,Fabric,HomeStyle,3.4,42214,23,32504.78,New Arrival
+FUR1826,Sofa,Metal,UrbanLiving,3.6,13949,22,10880.22,Premium
+FUR1827,Table,Leather,ComfortLine,4.5,10519,28,7573.68,Best Seller
+FUR1828,Desk,Plastic,FurniCraft,4.3,28375,39,17308.75,Premium
+FUR1829,Dining Set,Leather,UrbanLiving,3.8,35082,5,33327.9,Premium
+FUR1830,Wardrobe,Fabric,FurniCraft,4.5,13737,29,9753.27,Popular
+FUR1831,Wardrobe,Plastic,FurniCraft,4.2,3134,38,1943.08,Popular
+FUR1832,Sofa,Fabric,ComfortLine,4.8,12938,29,9185.98,Popular
+FUR1833,Bed,Metal,UrbanLiving,4.6,26486,20,21188.8,Premium
+FUR1834,Chair,Wood,LuxWood,3.5,28096,38,17419.52,New Arrival
+FUR1835,Bed,Plastic,ComfortLine,3.5,43115,33,28887.05,Best Seller
+FUR1836,Sofa,Metal,ComfortLine,3.3,7592,23,5845.84,Best Seller
+FUR1837,Wardrobe,Metal,UrbanLiving,3.7,20108,27,14678.84,New Arrival
+FUR1838,Bed,Plastic,UrbanLiving,5.0,19270,23,14837.9,New Arrival
+FUR1839,Wardrobe,Fabric,FurniCraft,3.8,29649,29,21050.79,Best Seller
+FUR1840,Desk,Metal,UrbanLiving,3.4,12997,20,10397.6,Budget Friendly
+FUR1841,Dining Set,Leather,FurniCraft,4.5,35489,13,30875.43,Popular
+FUR1842,Chair,Metal,ComfortLine,4.1,11104,5,10548.8,Popular
+FUR1843,Desk,Fabric,HomeStyle,3.3,2870,23,2209.9,Best Seller
+FUR1844,Wardrobe,Fabric,LuxWood,3.8,30684,37,19330.92,New Arrival
+FUR1845,Wardrobe,Leather,ComfortLine,3.8,41519,38,25741.78,Budget Friendly
+FUR1846,Table,Metal,UrbanLiving,4.5,36524,20,29219.2,Best Seller
+FUR1847,Table,Fabric,LuxWood,3.0,32957,22,25706.46,Popular
+FUR1848,Desk,Plastic,HomeStyle,3.5,35885,38,22248.7,Premium
+FUR1849,Shelf,Wood,HomeStyle,4.0,46369,29,32921.99,New Arrival
+FUR1850,Desk,Wood,FurniCraft,3.5,37596,10,33836.4,Premium
+FUR1851,Table,Wood,LuxWood,4.3,31866,25,23899.5,Best Seller
+FUR1852,Wardrobe,Metal,FurniCraft,4.0,32676,10,29408.4,Popular
+FUR1853,Sofa,Leather,ComfortLine,3.7,49764,36,31848.96,Budget Friendly
+FUR1854,Desk,Fabric,LuxWood,4.9,15878,35,10320.7,Premium
+FUR1855,Wardrobe,Plastic,ComfortLine,4.3,41760,14,35913.6,Budget Friendly
+FUR1856,Sofa,Plastic,FurniCraft,3.3,29559,34,19508.94,Popular
+FUR1857,Sofa,Metal,LuxWood,4.1,48546,22,37865.88,Premium
+FUR1858,Table,Wood,FurniCraft,4.6,8771,28,6315.12,Budget Friendly
+FUR1859,Desk,Metal,LuxWood,4.4,18526,13,16117.62,Budget Friendly
+FUR1860,Bed,Leather,FurniCraft,3.3,31896,35,20732.4,Premium
+FUR1861,Chair,Leather,HomeStyle,4.9,33923,19,27477.63,Popular
+FUR1862,Table,Fabric,FurniCraft,3.9,38203,8,35146.76,Budget Friendly
+FUR1863,Table,Fabric,HomeStyle,3.3,41390,13,36009.3,Best Seller
+FUR1864,Bed,Leather,FurniCraft,3.4,14852,13,12921.24,Premium
+FUR1865,Chair,Leather,LuxWood,3.2,49574,30,34701.8,New Arrival
+FUR1866,Wardrobe,Leather,LuxWood,4.6,45391,8,41759.72,New Arrival
+FUR1867,Shelf,Metal,LuxWood,3.2,3848,21,3039.92,Popular
+FUR1868,Desk,Leather,UrbanLiving,3.3,33027,20,26421.6,Best Seller
+FUR1869,Shelf,Plastic,ComfortLine,4.7,37464,19,30345.84,Budget Friendly
+FUR1870,Wardrobe,Wood,LuxWood,3.7,36485,39,22255.85,New Arrival
+FUR1871,Dining Set,Leather,HomeStyle,3.1,21456,9,19524.96,Popular
+FUR1872,Table,Wood,LuxWood,3.1,11259,9,10245.69,Best Seller
+FUR1873,Chair,Metal,UrbanLiving,3.3,37554,24,28541.04,Best Seller
+FUR1874,Table,Wood,HomeStyle,3.4,48922,19,39626.82,Popular
+FUR1875,Sofa,Metal,UrbanLiving,4.3,15409,22,12019.02,Popular
+FUR1876,Table,Plastic,HomeStyle,3.3,5791,6,5443.54,Budget Friendly
+FUR1877,Table,Metal,FurniCraft,3.2,27864,33,18668.88,Popular
+FUR1878,Wardrobe,Metal,ComfortLine,4.5,38639,17,32070.37,Budget Friendly
+FUR1879,Wardrobe,Fabric,ComfortLine,4.3,36574,8,33648.08,Budget Friendly
+FUR1880,Wardrobe,Leather,UrbanLiving,3.9,19888,14,17103.68,Premium
+FUR1881,Shelf,Leather,ComfortLine,4.1,21692,35,14099.8,Best Seller
+FUR1882,Sofa,Plastic,UrbanLiving,3.6,25501,12,22440.88,Best Seller
+FUR1883,Dining Set,Plastic,UrbanLiving,4.0,15304,7,14232.72,Best Seller
+FUR1884,Dining Set,Leather,UrbanLiving,4.0,29527,13,25688.49,Premium
+FUR1885,Wardrobe,Fabric,ComfortLine,3.8,20074,34,13248.84,Budget Friendly
+FUR1886,Chair,Leather,UrbanLiving,4.8,17549,15,14916.65,Budget Friendly
+FUR1887,Shelf,Fabric,ComfortLine,3.0,31963,39,19497.43,Popular
+FUR1888,Bed,Plastic,UrbanLiving,4.6,27920,17,23173.6,Premium
+FUR1889,Chair,Wood,LuxWood,3.2,32826,17,27245.58,Popular
+FUR1890,Desk,Plastic,UrbanLiving,4.6,38071,16,31979.64,Premium
+FUR1891,Desk,Plastic,HomeStyle,4.2,18061,14,15532.46,Popular
+FUR1892,Chair,Metal,UrbanLiving,4.7,30810,13,26804.7,New Arrival
+FUR1893,Wardrobe,Metal,FurniCraft,3.2,49966,11,44469.74,Best Seller
+FUR1894,Bed,Metal,UrbanLiving,4.1,24800,6,23312.0,Best Seller
+FUR1895,Bed,Metal,HomeStyle,4.0,45423,27,33158.79,Budget Friendly
+FUR1896,Shelf,Fabric,HomeStyle,4.4,43692,25,32769.0,New Arrival
+FUR1897,Bed,Leather,ComfortLine,4.1,11940,27,8716.2,Best Seller
+FUR1898,Desk,Wood,LuxWood,4.1,5924,33,3969.08,Budget Friendly
+FUR1899,Sofa,Plastic,UrbanLiving,3.9,30054,18,24644.28,New Arrival
+FUR1900,Wardrobe,Fabric,ComfortLine,3.6,11783,30,8248.1,Best Seller
+FUR1901,Bed,Wood,LuxWood,4.0,39253,9,35720.23,Popular
+FUR1902,Shelf,Fabric,UrbanLiving,3.2,47397,35,30808.05,Premium
+FUR1903,Desk,Fabric,FurniCraft,4.9,15233,29,10815.43,New Arrival
+FUR1904,Sofa,Plastic,UrbanLiving,4.4,47669,35,30984.85,Budget Friendly
+FUR1905,Table,Leather,HomeStyle,4.9,26484,24,20127.84,New Arrival
+FUR1906,Table,Metal,HomeStyle,3.5,27068,21,21383.72,Budget Friendly
+FUR1907,Sofa,Leather,FurniCraft,4.8,2191,6,2059.54,New Arrival
+FUR1908,Desk,Plastic,ComfortLine,4.6,27074,29,19222.54,Budget Friendly
+FUR1909,Shelf,Plastic,LuxWood,4.4,6917,17,5741.11,Best Seller
+FUR1910,Sofa,Plastic,UrbanLiving,4.3,40599,32,27607.32,Popular
+FUR1911,Wardrobe,Wood,HomeStyle,3.6,27832,10,25048.8,Best Seller
+FUR1912,Wardrobe,Leather,ComfortLine,4.6,44928,7,41783.04,Popular
+FUR1913,Table,Leather,FurniCraft,4.0,22706,39,13850.66,Best Seller
+FUR1914,Bed,Fabric,HomeStyle,3.1,15682,22,12231.96,Best Seller
+FUR1915,Shelf,Fabric,FurniCraft,3.6,28762,15,24447.7,New Arrival
+FUR1916,Table,Fabric,UrbanLiving,4.9,25383,24,19291.08,Premium
+FUR1917,Bed,Plastic,LuxWood,4.7,29796,9,27114.36,Budget Friendly
+FUR1918,Bed,Leather,HomeStyle,5.0,25666,23,19762.82,Budget Friendly
+FUR1919,Dining Set,Plastic,HomeStyle,4.3,27662,26,20469.88,Budget Friendly
+FUR1920,Wardrobe,Wood,UrbanLiving,3.5,47159,23,36312.43,Popular
+FUR1921,Desk,Fabric,ComfortLine,3.3,36642,20,29313.6,Budget Friendly
+FUR1922,Chair,Plastic,LuxWood,3.4,43830,28,31557.6,Budget Friendly
+FUR1923,Desk,Plastic,HomeStyle,3.0,39531,8,36368.52,New Arrival
+FUR1924,Chair,Wood,LuxWood,3.8,12234,19,9909.54,Best Seller
+FUR1925,Sofa,Metal,HomeStyle,3.4,11221,29,7966.91,Budget Friendly
+FUR1926,Wardrobe,Leather,LuxWood,3.8,13410,39,8180.1,Premium
+FUR1927,Bed,Metal,FurniCraft,4.9,16519,18,13545.58,Budget Friendly
+FUR1928,Shelf,Fabric,HomeStyle,3.9,3051,23,2349.27,Popular
+FUR1929,Chair,Plastic,LuxWood,4.8,46993,11,41823.77,Popular
+FUR1930,Desk,Wood,ComfortLine,4.2,11765,34,7764.9,Popular
+FUR1931,Bed,Wood,FurniCraft,3.5,13382,23,10304.14,Budget Friendly
+FUR1932,Chair,Leather,FurniCraft,3.7,14580,29,10351.8,New Arrival
+FUR1933,Chair,Metal,ComfortLine,3.2,34323,20,27458.4,Premium
+FUR1934,Dining Set,Leather,LuxWood,3.7,46757,12,41146.16,Budget Friendly
+FUR1935,Chair,Plastic,UrbanLiving,4.4,13939,22,10872.42,New Arrival
+FUR1936,Shelf,Leather,ComfortLine,3.1,31964,32,21735.52,New Arrival
+FUR1937,Wardrobe,Wood,LuxWood,3.4,2307,20,1845.6,Budget Friendly
+FUR1938,Shelf,Wood,ComfortLine,3.8,5359,23,4126.43,Budget Friendly
+FUR1939,Table,Fabric,ComfortLine,5.0,31648,21,25001.92,New Arrival
+FUR1940,Bed,Fabric,HomeStyle,4.6,37944,17,31493.52,New Arrival
+FUR1941,Wardrobe,Plastic,LuxWood,4.5,36019,11,32056.91,New Arrival
+FUR1942,Dining Set,Metal,UrbanLiving,3.2,40134,31,27692.46,Budget Friendly
+FUR1943,Wardrobe,Leather,HomeStyle,4.6,29323,14,25217.78,New Arrival
+FUR1944,Wardrobe,Plastic,ComfortLine,4.6,8226,38,5100.12,Popular
+FUR1945,Desk,Fabric,ComfortLine,4.2,23689,29,16819.19,Budget Friendly
+FUR1946,Wardrobe,Leather,ComfortLine,5.0,32971,10,29673.9,Popular
+FUR1947,Dining Set,Fabric,LuxWood,3.7,27954,28,20126.88,Best Seller
+FUR1948,Shelf,Leather,LuxWood,4.9,26423,22,20609.94,Budget Friendly
+FUR1949,Wardrobe,Metal,HomeStyle,4.8,32391,27,23645.43,Best Seller
+FUR1950,Sofa,Plastic,UrbanLiving,3.0,16330,10,14697.0,New Arrival
+FUR1951,Bed,Leather,HomeStyle,3.9,6891,33,4616.97,New Arrival
+FUR1952,Wardrobe,Wood,FurniCraft,5.0,6992,29,4964.32,Premium
+FUR1953,Bed,Wood,ComfortLine,3.2,3961,21,3129.19,New Arrival
+FUR1954,Sofa,Leather,ComfortLine,4.1,14497,28,10437.84,Best Seller
+FUR1955,Sofa,Leather,ComfortLine,5.0,34551,15,29368.35,New Arrival
+FUR1956,Bed,Leather,HomeStyle,4.1,12848,30,8993.6,Budget Friendly
+FUR1957,Chair,Wood,HomeStyle,3.4,15255,38,9458.1,New Arrival
+FUR1958,Table,Wood,ComfortLine,4.2,6567,32,4465.56,Premium
+FUR1959,Desk,Leather,HomeStyle,3.4,41281,7,38391.33,New Arrival
+FUR1960,Chair,Fabric,LuxWood,4.0,22389,15,19030.65,Best Seller
+FUR1961,Chair,Fabric,LuxWood,3.1,46523,18,38148.86,Best Seller
+FUR1962,Shelf,Metal,HomeStyle,4.2,45919,30,32143.3,New Arrival
+FUR1963,Desk,Plastic,ComfortLine,4.0,18567,25,13925.25,Best Seller
+FUR1964,Desk,Fabric,HomeStyle,4.5,5358,34,3536.28,Best Seller
+FUR1965,Chair,Wood,HomeStyle,4.3,24999,12,21999.12,Premium
+FUR1966,Wardrobe,Fabric,HomeStyle,4.1,44358,24,33712.08,Budget Friendly
+FUR1967,Shelf,Metal,FurniCraft,4.4,12988,36,8312.32,Premium
+FUR1968,Shelf,Metal,LuxWood,3.3,42446,26,31410.04,Popular
+FUR1969,Sofa,Plastic,UrbanLiving,4.2,33521,11,29833.69,Premium
+FUR1970,Dining Set,Fabric,UrbanLiving,3.3,7698,13,6697.26,New Arrival
+FUR1971,Desk,Wood,FurniCraft,4.9,3273,5,3109.35,Budget Friendly
+FUR1972,Chair,Wood,HomeStyle,3.1,29543,33,19793.81,New Arrival
+FUR1973,Sofa,Leather,FurniCraft,3.9,33349,12,29347.12,Popular
+FUR1974,Bed,Wood,FurniCraft,4.4,13241,8,12181.72,Budget Friendly
+FUR1975,Table,Plastic,ComfortLine,3.9,11497,39,7013.17,Best Seller
+FUR1976,Dining Set,Plastic,LuxWood,3.2,43875,7,40803.75,Premium
+FUR1977,Dining Set,Wood,UrbanLiving,4.1,34703,11,30885.67,New Arrival
+FUR1978,Dining Set,Wood,HomeStyle,4.3,46041,31,31768.29,Popular
+FUR1979,Shelf,Leather,UrbanLiving,4.4,33954,5,32256.3,Best Seller
+FUR1980,Bed,Wood,UrbanLiving,3.7,10002,31,6901.38,Premium
+FUR1981,Dining Set,Leather,LuxWood,4.1,6247,20,4997.6,Best Seller
+FUR1982,Bed,Leather,UrbanLiving,3.9,43988,11,39149.32,Premium
+FUR1983,Wardrobe,Wood,UrbanLiving,4.3,23698,27,17299.54,Budget Friendly
+FUR1984,Dining Set,Metal,FurniCraft,4.2,21738,15,18477.3,Best Seller
+FUR1985,Table,Metal,LuxWood,4.1,12703,37,8002.89,Best Seller
+FUR1986,Bed,Leather,ComfortLine,3.5,19570,21,15460.3,Best Seller
+FUR1987,Bed,Wood,HomeStyle,3.0,14392,39,8779.12,Budget Friendly
+FUR1988,Table,Metal,UrbanLiving,3.3,46724,9,42518.84,Popular
+FUR1989,Dining Set,Wood,HomeStyle,3.2,34299,36,21951.36,Premium
+FUR1990,Table,Wood,ComfortLine,3.9,17641,7,16406.13,Best Seller
+FUR1991,Bed,Wood,HomeStyle,4.2,15998,39,9758.78,Budget Friendly
+FUR1992,Table,Fabric,ComfortLine,3.4,8305,18,6810.1,Popular
+FUR1993,Bed,Wood,FurniCraft,4.9,34726,35,22571.9,Premium
+FUR1994,Bed,Fabric,UrbanLiving,3.0,20782,35,13508.3,Budget Friendly
+FUR1995,Wardrobe,Leather,ComfortLine,4.5,14721,21,11629.59,Premium
+FUR1996,Chair,Metal,HomeStyle,4.3,41763,28,30069.36,Best Seller
+FUR1997,Bed,Metal,UrbanLiving,3.7,14427,27,10531.71,Popular
+FUR1998,Dining Set,Metal,FurniCraft,3.1,48550,22,37869.0,Budget Friendly
+FUR1999,Sofa,Metal,UrbanLiving,4.3,22566,18,18504.12,Popular
